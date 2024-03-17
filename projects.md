@@ -4,9 +4,9 @@ title: Projects
 sidebar_link: true
 ---
 
-A list of SPAAM commmunity projects
+A list of AaRC projects
 
-Here we provide a list of projects run by the SPAAM community that to assist in
+Here we provide a list of projects run by AaRC in order to assist in
 progressing the field.
 
 <!-- TOC -->
