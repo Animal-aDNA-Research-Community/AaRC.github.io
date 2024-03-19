@@ -24,7 +24,7 @@ Please join us on our:
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**mailing list**](https://www.listserv.dfn.de/sympa/info/spaam-community) for announcements, calls, and notices.
 - [**bluesky**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications.
-- [**twitter**](http://twitter.com/spaam_community) for latest news, polls, and publications.
+- [**twitter/X**](http://twitter.com/spaam_community) for latest news, polls, and publications.
 - [**youtube**](https://www.youtube.com/@spaam-community) for latest videos, lectures, recordings.
 
 to keep get involved and keep up-to-date!
