@@ -16,7 +16,7 @@ To maximise collaboration, AaRC encourages participation by researchers from out
 
 AaRC is envisioned to be primarily run by and for early career researchers (graduate students, post-doctoral researchers, and early group leaders), but researchers of all career stages are welcome to join and participate in the community.
 
-AaRC initiatives and events are supported by a Steering Committee but are often led by AaRC members; reach out if you have ideas or are interested in helping.
+AaRC initiatives and events are supported by a Steering Committee but are often led by AaRC members; reach out if you have ideas or are interested in helping
 
 AaRC membership is free, but donations may be requested – and if you are interested in supporting AaRC financially, please reach out to the Steering Committee!
 
@@ -25,9 +25,10 @@ AaRC stands for Animal aDNA Research Community. We are a community of researcher
 
 We aim to openly share, primarily within but not restricted to online community spaces, knowledge and experience to find solutions to common challenges and obstacles that the field faces.
 
-We are a young organisation, but we hope to run various collaborative projects for the benefit of the whole animal palaeogenomics community and to progress the field including a regular conference for early career researchers. We plan to have various events to improve networking.
+We are a young organisation, but we hope to run various collaborative projects for the benefit of the whole animal paleogenomics community and to progress the field. We plan to have various events to improve networking.
 
 The idea of AaRC originated in 2024 when a group of researchers decided to start a community to create further collaboration and networking; to help foster growth of the field through the dissemination of knowledge and data; to provide a space for Early Career Researchers to share early work; and to establish subfield-specific standards and norms.
+
 
 ## Location
 Our main community space is Slack. We intend for there to be both online and in-person events as the community grows. We will keep information about the community archived on our website, along with information on how to get involved.
@@ -35,7 +36,7 @@ Our main community space is Slack. We intend for there to be both online and in-
 ## Membership
 We welcome all early stage career researchers and pre-doctoral students, as well as Principal Investigators (PIs) and other senior researchers, to join our community. However, the community aspires to be of particular use and as a venue of support for early career researchers; thus, we encourage PIs to not monopolise discussions.
 
-All members of our community are obliged to follow our code of conduct. Before joining the community be sure to read and understand what this entails. This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour. All members of AaRC are required to agree and comply with this code of conduct. Safety officers are responsible for enforcing this code within the community, including dealing with any violations. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
+All members of our community are obliged to follow our code of conduct. Before joining the community be sure to read and understand what this entails. This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour. All members of AaRC are required to agree and comply with this code of conduct. Safety officers are responsible for enforcing this code within the community, including dealing with any violations, and act as designated points of contact for concerns or reports of code of conduct violation. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
 
 To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found at the code of conduct. An anonymous reporting form is also available here. The actions taken by the safety officers would depend on the gravity of the action via a case by case assessment, and they are entitled to remove a member from the community should the behaviour in question be unacceptable to morality.
 
@@ -43,56 +44,41 @@ To report any violations of this code of conduct within activities in the scope 
 The community does not only serve as a place for members to communicate and exchange knowledge but also as a platform to start initiatives and collaborations.
 
 ### These are some recurrent initiatives:
-* AaRC SLACK Channel: An online community where researchers can discuss and share knowledge
+* **AaRC SLACK Channel:** An online community where researchers can discuss and share knowledge.
 
-* Ancient Animal Genome Database: a community effort to curate a database of all the ancient animal genomes published to date.
+* **Ancient Animal Genome Database:** a community effort to curate a database of all the ancient animal genomes published to date.
 
-* AaRC Talks: a monthly online presentation made by invited ECRs on published and unpublished work.
+* **AaRC Talks:** a monthly online presentation made by invited ECRs on published and unpublished work.
 
 New initiatives and projects are highly encouraged. For that reason a Steering Committee (see description below) was established to aid the projects/initiatives to reach their goals by providing ideas, support and advice.
 
 ## Finances
-There is no membership fee to join the AaRC community. However, opportunities for voluntary donations will be presented in community-wide AaRC meetings. We are financially supported by voluntary donations by members and research group leaders. If you are able to contribute financially and would like to support the AaRC community, please contact a member of the treasurer team of the Steering Committee.
+There is no membership fee to join the AaRC community. However, opportunities for voluntary donations will be presented in community-wide AaRC meetings. We are financially supported by voluntary donations by members and research group leaders. If you are able to contribute financially and would like to support the AaRC community, please contact the treasurer.
 
 ## Constitution
-The constitution (this document) outlines the structure and information about the AaRC community. The constitution is a living document which will be updated as needed to fit the needs of the AaRC community. It is primarily maintained by the Steering Committee, but other members can make suggestions by reaching out to the Steering committee and advocate for changes as they see fit.
+The constitution (this document) outlines the structure and information about the AaRC community. The constitution is a living document which will be updated as needed to fit the needs of the AaRC community. It is primarily maintained by the Steering Committee, but other members can make suggestions by reaching out to the Steering committee and advocate for changes.
 
 ## AaRC Steering Committee
 ### Definition
+Definition - Steering Committee
 The Steering Committee is an advisory board that provides support, guidance and oversight of particular issues or projects within the context of the community. 
 
-Currently the steering committee is temporary with an aim of forming the community and launching it in April 2024. There will then be elections to form an elected steering committee in the summer of 2024. The temporary committee was formed in Jan 2024 after a call for volunteers. The Steering Committee meets roughly once a month.
+Currently the steering committee is temporary with an aim of forming the community and launching it in April 2024.  The temporary committee was formed in Jan 2024 after a call for volunteers. There will be a call to members to form a new steering committee in the summer of 2024. It is expected that there will be a level of continuity from the temporary committee to the new steering committee. 
+
+The Steering Committee meets once a month. For quorum to be met 51% of committee members must be present.
 
 The tasks of the elected Steering Committee will involve brainstorming and proposing new initiatives and helping new initiatives get off the ground, by increasing engagement and support for AaRC members and events, helping with ongoing organisation efforts, publicization of AaRC, and sourcing funds for the maintenance of AaRC.
 
 The Steering Committee is formed by teams consisting of the managing team: a chair and a secretary, a treasurer, a social media team and an engagement team. The teams meet on a regular basis to divide responsibilities and set up a communication method that ensures tasks are fulfilled.
 
-The current members of the temporary Steering Committee can be found here:
-Pedro Morell Miranda, Audrey Lin, Anders Bergstrom, Edana Lord, Stephanie Dolenz, Victoria Mullin, Kevin Daly and Laura Viñas Caron
+The current members of the temporary Steering Committee can be found [here](steering_committee.md).
 
-**Chair:** Victoria Mullin
-
-**Vice-Chair:** Pedro Morell Miranda
-
-**Secretary:** Laura Viñas Caron
-
-**Treasurer:** Edana Lord
-
-**Social Media Team:** Pedro Morell Miranda, Audrey Lin, Edana Lord
-
-**Engagement Team:** Audrey Lin, Stephanie Dolenz, Kevin Daly
-
-**Metadata Working Group:** Anders Bergström
-
-**Name and Identity Working Group:** Kevin Daly, Pedro Morell Miranda, Audrey Lin
-
-**Code of Conduct and Constitution Working Group:** Victoria Mullin
 
 ### Description of the Roles
 **Management team:**
 Formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 
-**Chair:** leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the AaRC community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
+**Chair:** leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. They represents the AaRC community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end.
 
 **Vice-Chair:** Supports the chair and other members of the committees. They step in when the chair is unavailable
 
@@ -123,5 +109,9 @@ The temporary Steering Committee will be in office until elections in the summer
 The elected Steering Committee will be in office for a period of two years, after which a new committee will be chosen. Roles are decided collectively at the start of a new term.
 
 ### How are Steering Committee members chosen?
-Community members will be encouraged to volunteer when the term for the current Steering Committee is reaching an end. The volunteers should choose specific positions within the steering committee. If a team lacks volunteers, the current officers will nominate a person to substitute them. Ideally, positions will be filled by early career researchers.
+Community members will be encouraged to volunteer when the term for the current Steering Committee is reaching an end. The volunteers should identify specific positions within the steering committee that they are interested in. If a team lacks volunteers, the current officers will nominate a person to substitute them. Ideally, positions will be filled by early career researchers. If there is a surplus of volunteers an election will be held using a [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) system.
+
+If a member of the Steering Committee needs to vacate office early, a call will be made to the Community to find a replacement, if a team lacks volunteers the current officer will nominate a person to substitute them If there is a surplus of volunteers an emergency election will be held. The exception will be the Chair:, to help ensure continuity, the Vice-Chair will be promoted to Chair and a replacement for Vice-Chair will be nominated by the chair appointed. 
+
+If a committee member is in violation of the code of conduct a vote will be taken to remove them from position by the steering committee. In this instance quorum (51%) must be met for the vote to take place and for removal a supermajority needs to be found.
 
