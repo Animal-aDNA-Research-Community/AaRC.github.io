@@ -6,7 +6,11 @@ sidebar_link: true
 
 <img src="/assets/media/SPAAM-Logo-Full-Colour.svg" class="center" width="50%" >
 
-_A community of researchers focusing on animal ancient DNA_
+The AaRC community aims to bring together early career researchers applying genomic approaches to ancient animal remains and nucleotide-preserving material. 
+
+By providing an inclusive environment, AaRC will promote knowledge exchange and collaboration between researchers regardless of their institutional or disciplinary background; facilitate the establishment of community-led standards, best practices and resources; and provide a platform for the sharing of research and knowledge. 
+
+AaRC is envisioned to be primarily run by and for early career researchers (graduate student, post-doctoral researchers, and early group leaders), but researchers of all career stages are welcome to join and participate in the community.
 
 AaRC's mission is to provide:
 
@@ -31,4 +35,6 @@ to keep get involved and keep up-to-date!
 
 If you have any questions or want to reach out for more info about AaRC, [**the steering committee**](https://spaam-community.github.io/steering_committee/) is here to assist you.
 
+{::comment}
 <i style="font-size: 10pt">AaRC is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of AaRC.</i>
+{:/comment}
