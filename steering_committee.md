@@ -40,11 +40,14 @@ I am a postdoctoral researcher at the Centre for Textile Research and Globe Inst
 
 Contact: [laura@palaeome.org](mailto:laura@palaeome.org)
 
-<img src="/assets/media/Edana_photo.png" class="center" width="50%" >
+<img src="/assets/media/Edana_photo.jpg" class="center" width="50%" >
 
 Edana Lord - Treasurer
 
-Missing description
+I am a Postdoctoral Researcher at the Centre for Palaeogenetics – a joint venture between Stockholm University and the Swedish Museum of Natural History. My research interests include using ancient DNA to understand the impact of past climate on primarily Arctic fauna. My current project is focussed on investigating the evolutionary history of collared lemmings over the Pleistocene. Outside of work, I enjoy walks along the coast, fika, and craft beer.
+ 
+Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter] (https://twitter.com/EdanaLord)
+
 
 <img src="/assets/media/Audrey_photo.png" class="center" width="50%" >
 
@@ -55,7 +58,7 @@ I am a Gerstner Bioinformatics and Computational Biology Postdoctoral Scholar at
 contact: [alin@amnh.org](mailto:alin@amnh.org), [Twitter](https://twitter.com/undeaddandy) 
 
 
-<img src="/assets/media/maria.png" class="center" width="50%" >
+<img src="/assets/media/kevin_goat_portrait.jpg" class="center" width="50%" >
 
 Kevin G Daly - Engagement Team
 
@@ -92,7 +95,7 @@ contact: [a.bergstrom@uea.ac.uk](mailto:a.bergstrom@uea.ac.uk), [Twitter](https:
 
 **Treasurer team**
 
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund SPAAM initiatives.
+The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund AaRC initiatives.
 
 **Social media team**
 

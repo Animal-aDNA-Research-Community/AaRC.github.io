@@ -3,14 +3,13 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: SPAAM Community
-tagline: Website for the SPAAM Community
+title: AaRC
+tagline: Website for the Animal aDNA Research Community
 description: |
-  Standards, 
-  Precautions, and 
-  Advances in 
-  Ancient 
-  Metagenomics
+  Animal
+  aDNA
+  Research
+  Community
 url: https://spaam-community.github.io/spaam-community.github.io-dev/
 baseurl:
   "/"
@@ -22,8 +21,8 @@ baseurl:
 remote_theme: fongandrew/hydeout
 
 author:
-  name: "SPAAM Community"
-  url: https://twitter.com/spaam_community
+  name: "AaRC"
+  url: "https://twitter.com/AaRC_Community"
 
 paginate: 5
 # paginate_path:    '/page:num'
