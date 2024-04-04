@@ -9,7 +9,7 @@ Hello all!
 
 We, the Steering Committee of AaRC would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
 
-Right now the Steering Committee is formed by a group of volunteer that got together to try to set up this comunity. The founding Steering Committee will be disolved during the Summer of 2024, when elections will be held to elect the new Committee. 
+Right now the Steering Committee is formed by a group of volunteers that got together to try to set up this community. The founding Steering Committee will be dissolved during Summer  2024, when elections will be held to elect the new Committee. 
 
 
 ## The Steering Committee Members
@@ -53,7 +53,7 @@ Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter] 
 
 Audrey T. Lin (she/they) - Social Media Team, Engagement Team
 
-I am a Gerstner Bioinformatics and Computational Biology Postdoctoral Scholar at the American Museum of Natural History in New York City. I utilize ancient biomolecules from archaeological and museum specimens and objects to answer diverse questions on human-mediated evolutionary processes – in other words, how have humans interacted with other animals in ways that have resulted in genomic, social, and cultural changes?
+I am a Gerstner Bioinformatics and Computational Biology Postdoctoral Scholar at the American Museum of Natural History in New York City. I utilize ancient biomolecules from archaeological and museum specimens and objects to answer diverse questions on human-mediated evolutionary processes – in other words, how humans have interacted with other animals in ways that have resulted in genomic, social, and cultural changes.
 
 contact: [alin@amnh.org](mailto:alin@amnh.org), [Twitter](https://twitter.com/undeaddandy) 
 
@@ -91,7 +91,7 @@ contact: [a.bergstrom@uea.ac.uk](mailto:a.bergstrom@uea.ac.uk), [Twitter](https:
 
 - **Chair**: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents AaRC in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. Allows for discussion around long-term topics, needs to be forward thinking on this end. In case they cannot fullfil partly or completely their duties, the Vice-Chair will take care of them. 
 
-- **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
+- **Secretary**: Takes meeting minutes, sends them out via Slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
 **Treasurer team**
 
@@ -103,4 +103,4 @@ The social media team is responsible for the outreach of the community, by tweet
 
 **Engagement team**
 
-The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
+The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiatives are known in the community, as well as outside the community together with the media team. The engagement officers also suggests potential funding sources for the initiatives, by engaging with the treasurer team.
