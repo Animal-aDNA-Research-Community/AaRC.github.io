@@ -10,7 +10,7 @@ description: |
   aDNA
   Research
   Community
-url: https://github.com/Animal-aDNA-Research-Community/AaRC.github.io-dev/
+url: https://github.com/Animal-aDNA-Research-Community/AaRC.github.io/
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
