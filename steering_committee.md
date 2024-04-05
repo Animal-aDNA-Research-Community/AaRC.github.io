@@ -46,7 +46,7 @@ Edana Lord - Treasurer
 
 I am a Postdoctoral Researcher at the Centre for Palaeogenetics – a joint venture between Stockholm University and the Swedish Museum of Natural History. My research interests include using ancient DNA to understand the impact of past climate on primarily Arctic fauna. My current project is focussed on investigating the evolutionary history of collared lemmings over the Pleistocene. Outside of work, I enjoy walks along the coast, fika, and craft beer.
  
-Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter] (https://twitter.com/EdanaLord)
+Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter](https://twitter.com/EdanaLord)
 
 
 <img src="/AaRC.github.io/assets/media/Audrey_photo.png" class="center" width="50%" >
