@@ -7,5 +7,5 @@ title: Blog
 
 All blog posts from AaRC can be found below.
 
-The AaRC blog is curated by [Someone](https://twitter.com/someone) and [someone_else](https://twitter.com/someoneelse).
+<!-- The AaRC blog is curated by [Someone](https://twitter.com/someone) and [someone_else](https://twitter.com/someoneelse). -->
 
