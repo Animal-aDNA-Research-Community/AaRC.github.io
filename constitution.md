@@ -71,7 +71,7 @@ The tasks of the elected Steering Committee will involve brainstorming and propo
 
 The Steering Committee is formed by teams consisting of the managing team: a chair and a secretary, a treasurer, a social media team and an engagement team. The teams meet on a regular basis to divide responsibilities and set up a communication method that ensures tasks are fulfilled.
 
-The current members of the temporary Steering Committee can be found [here](steering_committee.md).
+The current members of the temporary Steering Committee can be found [here](/AaRC.github.io/steering_committee.md).
 
 
 ### Description of the Roles
@@ -82,7 +82,7 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 **Vice-Chair:** Supports the chair and other members of the committees. They step in when the chair is unavailable
 
-**Secretary:** Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
+**Secretary:** Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
 **Treasurer:**
 The treasurer is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer is also responsible to collect funds as well as finding grant opportunities to continue to fund AaRC initiatives.
