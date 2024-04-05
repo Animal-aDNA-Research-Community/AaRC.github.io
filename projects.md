@@ -16,14 +16,14 @@ progressing the field.
 
 <!-- /TOC -->
 
-## ERC Seminar Series
+## ECR Seminar Series
 
 <!--<div>
   <img alt="AncientMetagenomeDir Logo" src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="vertical-align:middle;;display: inline-block;;margin-left:auto;margin-right:auto;width=45%;" width="45%">
   <img alt="AMDirT Logo" src="https://github.com/SPAAM-community/AMDirT/raw/logo-fixes/assets/logo_rectangular.png" style="vertical-align:middle;;display: inline-block;;margin-left:auto;margin-right:auto;width=45%;" width="45%">
 </div>-->
 
-AaRC's ERC Seminar series is a monthly event that will showcase the research of early career researchers working with animal ancient genomics and related topics.This seminar series will be held online, and normally will take place at the end of each month. In order to attend the seminar, [registration](link_to_registration_form) is required.  
+AaRC's ECR Seminar series is a monthly event that will showcase the research of early career researchers working with animal ancient genomics and related topics.This seminar series will be held online, and normally will take place at the end of each month. In order to attend the seminar, [registration](link_to_registration_form) is required.  
 
 
 Contact person(s): [Kevin Daly](mailto:kevin@palaeome.org)
