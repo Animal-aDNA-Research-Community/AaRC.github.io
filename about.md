@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-<img src="/assets/media/AaRC_blackletters.png" class="center" width="50%" >
+<img src="/AaRC.github.io/assets/media/AaRC_blackletters.png" class="center" width="50%" >
 
 The AaRC community aims to bring together early career researchers applying genomic approaches to ancient animal remains and nucleotide-preserving material. 
 

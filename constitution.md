@@ -4,7 +4,7 @@ title: Constitution
 sidebar_link: true
 ---
 
-<img src="/assets/media/AaRC_blackletters.png" class="center" width="75%" >
+<img src="/AaRC.github.io/assets/media/AaRC_blackletters.png" class="center" width="75%" >
 
 ## Quick Summary
 

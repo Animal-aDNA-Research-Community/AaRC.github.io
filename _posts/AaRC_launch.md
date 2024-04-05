@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AaRC official launch!"
-date: 2024-04-01
+date: 2024-04-05
 categories: Events
 sidebar_link: true
 ---
