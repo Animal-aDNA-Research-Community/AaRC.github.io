@@ -96,7 +96,14 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 8. Contact info
 
-AaRC Safety Office is composed of three AaRC members. These officers are not on the committee.
+AaRC Safety Office is composed of three AaRC members. These officers are a mixture of committee and non-committee members:
+
+* Stephanie - Steering Committee member [stephanie.dolenz@geo.su.se](mailto:stephanie.dolenz@geo.su.se)
+
+* Deborah Diquelou - Volunteer [diquelod@tcd.ie](mailto:diquelod@tcd.ie)
+
+* Lauren Clark - Volunteer [lclark@amnh.org](mailto:lclark@amnh.org)
 
 
-To report any violation you can contact any of the members of the AaRC Safety Office or fill out the anonymous report form.
+
+To report any violation you can contact any of the members of the AaRC Safety Office or fill out the anonymous report form (*under construction*).
