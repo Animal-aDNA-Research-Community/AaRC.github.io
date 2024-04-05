@@ -2,7 +2,6 @@
 layout: page
 title: About
 sidebar_link: true
-permalink: https://animal-adna-research-community.github.io/AaRC.github.io/about
 ---
 
 <img src="/assets/media/AaRC_blackletters.png" class="center" width="50%" >
