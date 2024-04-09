@@ -104,6 +104,12 @@ AaRC Safety Office is composed of three AaRC members. These officers are a mixtu
 
 * Lauren Clark - Volunteer [lclark@amnh.org](mailto:lclark@amnh.org)
 
-
-
 To report any violation you can contact any of the members of the AaRC Safety Office or fill out the anonymous report form (*under construction*).
+
+### 9. License and attribution
+
+This is modified after the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+
+Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+
