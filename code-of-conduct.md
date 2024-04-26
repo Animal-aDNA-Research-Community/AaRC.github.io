@@ -104,7 +104,7 @@ AaRC Safety Office is composed of three AaRC members. These officers are a mixtu
 
 * Lauren Clark - Volunteer 
 
-To report any violation you can contact any of the members of the AaRC Safety Office directly, send an email to [safety.aarc.community@gmail.com](mailto:safety.aarc.community@gmail.com) or fill out the anonymous report form (*under construction*).
+To report any violation you can contact any of the members of the AaRC Safety Office directly through Slack, send an email to [safety.aarc.community@gmail.com](mailto:safety.aarc.community@gmail.com) or fill out the anonymous report form (*under construction*).
 
 ### 9. License and attribution
 
