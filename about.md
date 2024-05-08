@@ -27,8 +27,9 @@ Please join us on our:
 - [**slack channel**](https://join.slack.com/t/aarc-8tg1497/shared_invite/zt-2evac9tqu-GXoU0UsmLbI4mIsS91XMcw)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 
-<!-- - [**mailing list**](https://www.listserv.dfn.de/sympa/info/spaam-community) for announcements, calls, and notices.
-- [**bluesky**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications. -->
+- [**mailing list**](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ANCIENT-DNA) for announcements, calls, and notices.
+
+<!-- - [**bluesky**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications. -->
 
 - [**twitter/X**](https://twitter.com/AaRC_Community) for latest news, polls, and publications.
 
