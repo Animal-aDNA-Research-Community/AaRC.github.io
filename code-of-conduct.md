@@ -48,7 +48,7 @@ The following behaviours are expected and requested of all community members:
 
 ## 4. Unacceptable Behaviour
 
-The following behaviours are considered harassment and are unacceptable within our community, both in person and online:
+The following behaviours are considered harassment and are unacceptable within and outside our community, both in person and online:
 
 * Violence, threats of violence or violent language directed against another person.
 
