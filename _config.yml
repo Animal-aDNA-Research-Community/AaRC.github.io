@@ -10,8 +10,8 @@ description: |
   aDNA
   Research
   Community
-url: https://animal-adna-research-community.github.io
-baseurl: /AaRC.github.io
+url: https://animal-adna.org
+baseurl: ""
   # the optional subpath of your site, e.g. "/blog"
   # NB: This applies to all pages in your Jekyll site.
   # If you want to move just the blog index pages but keep

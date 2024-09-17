@@ -14,7 +14,7 @@ Right now the Steering Committee is formed by a group of volunteers that got tog
 
 ## The Steering Committee Members
 
-<img src="/AaRC.github.io/assets/media/Mullin_Photo.jpg" class="center" width="50%" >
+<img src="/assets/media/Mullin_Photo.jpg" class="center" width="50%" >
 
 Victoria E Mullin - Chair
 
@@ -22,7 +22,7 @@ I am a postdoctoral researcher at Trinity College Dublin. I am particularly inte
 
 contact: [victoriae@palaeome.org](mailto:victoriae@palaeome.org)  
 
-<img src="/AaRC.github.io/assets/media/Pedro_foto.jpg" class="center" width="50%" >
+<img src="/assets/media/Pedro_foto.jpg" class="center" width="50%" >
 
 
 
@@ -32,7 +32,7 @@ I’m a PostDoctoral Researcher at the Ludwig-Maximillian University of Munich (
 
 contact: [Pedro.Morell@lmu.de](mailto:Pedro.Morell@lmu.de), [Twitter](https://twitter.com/genesandstuff),  [BlueSky](https://bsky.app/profile/hjorvik.bsky.social)
 
-<img src="/AaRC.github.io/assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
+<img src="assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
 
 Laura Viñas Caron - Secretary
 
@@ -40,7 +40,7 @@ I am a postdoctoral researcher at the Centre for Textile Research and Globe Inst
 
 Contact: [laura@palaeome.org](mailto:laura@palaeome.org)
 
-<img src="/AaRC.github.io/assets/media/Edana_photo.jpg" class="center" width="50%" >
+<img src="assets/media/Edana_photo.jpg" class="center" width="50%" >
 
 Edana Lord - Treasurer
 
@@ -49,7 +49,7 @@ I am a Postdoctoral Researcher at the Centre for Palaeogenetics – a joint vent
 Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter](https://twitter.com/EdanaLord)
 
 
-<img src="/AaRC.github.io/assets/media/Audrey_photo.png" class="center" width="50%" >
+<img src="/assets/media/Audrey_photo.png" class="center" width="50%" >
 
 Audrey T. Lin (she/they) - Social Media Team, Engagement Team
 
@@ -58,7 +58,7 @@ I am a Gerstner Bioinformatics and Computational Biology Postdoctoral Scholar at
 contact: [alin@amnh.org](mailto:alin@amnh.org), [Twitter](https://twitter.com/undeaddandy) 
 
 
-<img src="/AaRC.github.io/assets/media/kevin_goat_portrait.jpg" class="center" width="50%" >
+<img src="/assets/media/kevin_goat_portrait.jpg" class="center" width="50%" >
 
 Kevin G Daly - Engagement Team
 
@@ -67,7 +67,7 @@ I am an Ad Astra Assistant Professor at the School of Agriculture and Food Scien
 Contact: [kevin@palaeome.org](mailto:kevin@palaeome.org), [Twitter](https://twitter.com/GingerHowley),  [GitHub](https://kevingdaly.github.io/)
 
 
-<img src="/AaRC.github.io/assets/media/Stephanie_photo.jpg" class="center" width="50%" >
+<img src="/assets/media/Stephanie_photo.jpg" class="center" width="50%" >
 
 Stephanie Dolenz (she/her) - Engagement Team and Safety Office Liaison
 
@@ -77,7 +77,7 @@ contact: [stephanie.dolenz@geo.su.se](mailto:stephanie.dolenz@geo.su.se), [GitHu
 
 
 
-<img src="/AaRC.github.io/assets/media/Anders_foto.jpeg" class="center" width="50%" >
+<img src="/assets/media/Anders_foto.jpeg" class="center" width="50%" >
 
 Anders Bergström - Metadata Working Group
 
