@@ -27,9 +27,9 @@ The presentation will be followed by a roundtable discussion on the topic of lab
 Attendance to the webinar is free and open to the whole community, and particularly to students and early career researchers, particularly those familiar with wetlab work!.
 
 <p  align="middle">
-<img src="{{ "/assets/media/event_images/2024-05-08-event/webinar.png" | relative_url }}" alt="Cross-community webinar 2024 Banner" >
+<img src="{{ '/assets/media/event_images/2024-05-08-event/webinar.png' | relative_url }}" alt="Cross-community webinar 2024 Banner" >
 </p>
 
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSc0J8FnpVOYrniTC8sQdSugsqHkympE_LqSWwV75QIeulug2A/viewform) to register! 
 
-### Hope to see you there ! :)
+### Hope to see you there ! 
