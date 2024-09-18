@@ -33,7 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-
+encoding: utf-8
 
 # Sidebar link settings
 sidebar_home_link: false
