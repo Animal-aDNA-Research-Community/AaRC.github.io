@@ -32,7 +32,7 @@ I’m a PostDoctoral Researcher at the Ludwig-Maximillian University of Munich (
 
 contact: [Pedro.Morell@lmu.de](mailto:Pedro.Morell@lmu.de), [Twitter](https://twitter.com/genesandstuff),  [BlueSky](https://bsky.app/profile/hjorvik.bsky.social)
 
-<img src="assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
+<img src="/assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
 
 Laura Viñas Caron - Secretary
 
@@ -40,7 +40,7 @@ I am a postdoctoral researcher at the Centre for Textile Research and Globe Inst
 
 Contact: [laura@palaeome.org](mailto:laura@palaeome.org)
 
-<img src="assets/media/Edana_photo.jpg" class="center" width="50%" >
+<img src="/assets/media/Edana_photo.jpg" class="center" width="50%" >
 
 Edana Lord - Treasurer
 
