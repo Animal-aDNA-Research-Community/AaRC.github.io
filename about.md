@@ -20,7 +20,7 @@ AaRC's mission is to provide:
 
 for the animal ancient DNA community.
 
-We achieve these aims with various [projects](/AaRC.github.io/projects), and by regularly communciating with each other.
+We achieve these aims with various [projects](/projects), and by regularly communciating with each other.
 
 Please join us on our:
 
@@ -37,8 +37,7 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 
 to keep get involved and keep up-to-date!
 
-If you have any questions or want to reach out for more info about AaRC, [**the steering committee**](/AaRC.github.io/steering_committee) is here to assist you.
+If you have any questions or want to reach out for more info about AaRC, [**the steering committee**](/steering_committee) is here to assist you.
 
-{::comment}
+
 <i style="font-size: 10pt">AaRC is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of AaRC.</i>
-{:/comment}
