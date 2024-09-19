@@ -1,11 +1,8 @@
-----
+---
 layout: post
-
-title: "We have a new domain!"
-
-date: 2024-09-19
-
-categories: News
+title: "New AaRC domain!"
+date: 2024-09 -19
+categories: News 
 ---
 
 # We have a new domain name!
