@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New AaRC domain!"
-date: 2024-09 -19
+date: 2024-09-19
 categories: News 
 ---
 
