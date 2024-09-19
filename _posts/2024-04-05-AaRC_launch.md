@@ -2,8 +2,7 @@
 layout: post
 title: "AaRC official launch!"
 date: 2024-04-05
-categories: News
-sidebar_link: true
+categories: News 
 ---
 
 ### The Animal aDNA Research Community starts officially on April 2024.
