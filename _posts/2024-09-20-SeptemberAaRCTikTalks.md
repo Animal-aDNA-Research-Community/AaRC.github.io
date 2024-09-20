@@ -4,8 +4,9 @@ title: "AaRCTikTalks September 2024"
 categories: Events
 tags: AaRCTikTalks
 ---
+![AaRCTikTalks poster for September](/assets/media/aarctiktalks_september.jpg "AaRCTikTalks poster for September")
 
-We are reaching the end of September, and that means next week we will have our monthly seminar. 
+We are reaching the end of September, and that means next week, the 27th at 2 pm GMT+1 (3 pm CET), we will have our monthly seminar. 
 This month we have Pablo Librado, from the Institut de Biologia Evolutiva of the Universitat Autonoma de Barcelona and 
 Jolijn Erven, from the Groningen Institute of Archaeology of the University of Groningen, will talk about their work on 
 the elusive domestication of modern horses and how we can impute ancient cattle genomes using a set of modern samples. 
