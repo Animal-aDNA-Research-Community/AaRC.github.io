@@ -11,4 +11,4 @@ This November 15th is the anniversary of the first ancient DNA paper, published 
 critical role animal aDNA has played in the development of paleogenomics as a whole. To celebrate this role, discuss the actual state of the field and what the future may bring us we will have talks by Selina Brace, 
 Robert C. Fleischer and Ludovic Orlando. 
 
-Please join us by registering [here](). A link will also be shared through [Slack](https://join.slack.com/t/aarc-8tg1497/shared_invite/zt-2evac9tqu-GXoU0UsmLbI4mIsS91XMcw). 
+Please join us by registering [here](https://docs.google.com/forms/d/e/1FAIpQLSfq4BUmArgA96iWjm71ocQwbosLZRNb72rZK8Oky1RCnJsGNw/viewform). A link will also be shared through [Slack](https://join.slack.com/t/aarc-8tg1497/shared_invite/zt-2evac9tqu-GXoU0UsmLbI4mIsS91XMcw). 
