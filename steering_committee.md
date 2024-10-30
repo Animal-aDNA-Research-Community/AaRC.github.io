@@ -20,7 +20,7 @@ Victoria E Mullin - Chair
 
 I am a postdoctoral researcher at Trinity College Dublin. I am particularly interested in applying ancient genomics to explore animal-human interactions. The main focus of my research surrounds domesticate animals, in particular cattle, from domestication to the development of breeds. Additionally, my work and interest includes the application of historical genomes for the establishment of genomic baselines for conservation.
 
-contact: [victoriae@palaeome.org](mailto:victoriae@palaeome.org)  
+Contact: [victoriae@palaeome.org](mailto:victoriae@palaeome.org)  
 
 <img src="/assets/media/Pedro_foto.jpg" class="center" width="50%" >
 
@@ -30,7 +30,7 @@ Pedro Morell Miranda  (He/His) - Vice Chair, Social Media Team
 
 I’m a PostDoctoral Researcher at the Ludwig-Maximillian University of Munich (LMU). While I work mostly on sheep domestication and posterior demographic history, I’m more widely interested in human-fauna interactions and how our presence and activities shape other species' evolution.  Out of work I love reading, playing the blues on one of my guitars and fencing with ancient swords.
 
-contact: [Pedro.Morell@lmu.de](mailto:Pedro.Morell@lmu.de), [Twitter](https://twitter.com/genesandstuff),  [BlueSky](https://bsky.app/profile/hjorvik.bsky.social)
+Contact: [Pedro.Morell@lmu.de](mailto:Pedro.Morell@lmu.de), [Twitter](https://twitter.com/genesandstuff),  [BlueSky](https://bsky.app/profile/hjorvik.bsky.social)
 
 <img src="/assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
 
@@ -40,13 +40,6 @@ I am a postdoctoral researcher at the Centre for Textile Research and Globe Inst
 
 Contact: [laura@palaeome.org](mailto:laura@palaeome.org)
 
-<img src="/assets/media/Edana_photo.jpg" class="center" width="50%" >
-
-Edana Lord - Treasurer
-
-I am a Postdoctoral Researcher at the Centre for Palaeogenetics – a joint venture between Stockholm University and the Swedish Museum of Natural History. My research interests include using ancient DNA to understand the impact of past climate on primarily Arctic fauna. My current project is focussed on investigating the evolutionary history of collared lemmings over the Pleistocene. Outside of work, I enjoy walks along the coast, fika, and craft beer.
- 
-Contact: [edana.lord@zoologi.su.se](mailto:edana.lord@zoologi.su.se), [Twitter](https://twitter.com/EdanaLord)
 
 
 <img src="/assets/media/Audrey_photo.png" class="center" width="50%" >
@@ -55,7 +48,7 @@ Audrey T. Lin (she/they) - Social Media Team, Engagement Team
 
 I am a Gerstner Bioinformatics and Computational Biology Postdoctoral Scholar at the American Museum of Natural History in New York City. I utilize ancient biomolecules from archaeological and museum specimens and objects to answer diverse questions on human-mediated evolutionary processes – in other words, how humans have interacted with other animals in ways that have resulted in genomic, social, and cultural changes.
 
-contact: [alin@amnh.org](mailto:alin@amnh.org), [Twitter](https://twitter.com/undeaddandy) 
+Contact: [alin@amnh.org](mailto:alin@amnh.org), [Twitter](https://twitter.com/undeaddandy) 
 
 
 <img src="/assets/media/kevin_goat_portrait.jpg" class="center" width="50%" >
@@ -73,7 +66,7 @@ Stephanie Dolenz (she/her) - Engagement Team and Safety Office Liaison
 
 I am a PhD student at the Centre for Palaeogenetics, Stockholm University. I am interested in the use of ancient DNA to study the effect of climate change and past peoples on biodiversity throughout time. For my PhD research I am analyzing ancient DNA from sediments in order to reconstruct ecological communities and examine how past climate events impacted plant and animal communities over the past 450,000 years. I am also working on a project exploring Pleistocene species found in a cave in Oaxaca, Mexico. In my free time, I like to play Dungeons and Dragons, knit, hike, cave, and cuddle with my adorable cat named Pip. 
 
-contact: [stephanie.dolenz@geo.su.se](mailto:stephanie.dolenz@geo.su.se), [GitHub](https://github.com/sdolenz)
+Contact: [stephanie.dolenz@geo.su.se](mailto:stephanie.dolenz@geo.su.se), [GitHub](https://github.com/sdolenz)
 
 
 
@@ -83,7 +76,41 @@ Anders Bergström - Metadata Working Group
 
 I am a group leader in the School of Biological Sciences at the University of East Anglia, Norwich, UK. I am interested in the evolution and diversity of wild and domesticated animals, and the multitude of ways in which human societies have influenced these throughout prehistory and in the present day. My primary research projects currently concern dogs, wolves and red foxes, and I also maintain an interest in human population history.
 
-contact: [a.bergstrom@uea.ac.uk](mailto:a.bergstrom@uea.ac.uk), [Twitter](https://twitter.com/andersbrgstrm)
+Contact: [a.bergstrom@uea.ac.uk](mailto:a.bergstrom@uea.ac.uk), [Twitter](https://twitter.com/andersbrgstrm)
+
+<img src="/assets/media/LachieScarsbrook_photo.jpeg" class="center" width="50%" >
+
+Lachie Scarsbrook - Engagement Team
+
+I am a Postdoctoral Researcher at Ludwig Maximilian University of Munich, and a Junior Research Fellow at the University of Oxford (Somerville College). I am interested in the use of ancient DNA in investigating the role that humans and the environment play in shaping global animal populations. More specifically, I am focused on unravelling the causes and consequences of millennia of interaction between humans and their closest evolutionary companion, dogs. Being a kiwi, when I’m not working, I love travelling and exploring the great outdoors.
+
+Contact: [lachlan.scarcbrook@arch.ox.ac.uk](mailto:lachlan.scarcbrook@arch.ox.ac.uk), [Twitter](https://x.com/LJScarsbrook)
+
+<img src="/assets/media/KatiaBougiouri_photo.jpeg" class="center" width="50%" >
+
+Katia Bougiouri - Engagement Team
+
+I'm a postdoctoral researcher at the Globe Institute in the University of Copenhagen.
+My research interests revolve around dog evolution, combining present-day and ancient genomic data. My current work focuses on testing the applicability and limitations of different genomic tools to better understand the evolutionary history of dogs, and other domesticated species. Outside of work, I enjoy hiking, playing board games, and doing aerial silks.
+
+Contact: [katia.bougiouri@gmail.com](mailto:katia.bougiouri@gmail.com), [Twitter](https://x.com/KBougiouri)
+
+<img src="/assets/media/EmilioMarmol_photo.jpeg" class="center" width="50%" >
+
+Emilio Mármol - Engagement Team
+
+I am a Postdoctoral Researcher at the Center for Evolutionary Hologenomics within the Globe Institute in the University of Copenhagen, Denmark. My research interests include the study of ancient DNA, ancient RNA and 3D structural genomics in animals (and plants) to understand extinction dynamics and discover hidding bits of the biology of extinct and extanct living organisms. Outside of work, I enjoy walks in the nature, hiking or just laying down in the sofa watching some sci-fi or nature documentary with a cozy cover getting lost in my own thoughts.
+
+Contact: [emilio.sanchez@sund.ku.dk](mailto:emilio.sanchez@sund.ku.dk), [emilio.marmol.sanchez@gmail.com](mailto:emilio.marmol.sanchez@gmail.com), [Twitter](https://x.com/MarmolE6)
+
+<img src="/assets/media/ElGreen_photo.jpeg" class="center" width="50%" >
+
+Eleanor Green - Engagement Team
+
+I am currently working as an archaeogenetics postdoctoral researcher on the RATTUS project at the University of York, England. I work in the wet and dry labs to understand the mechanisms and timings of the arrival of black and brown rats into Europe. Broadly, I am interested in researching unusual or under-utilised, substrates and species to better understand human activities the past.
+
+Contact: [eleanor.green@york.ac.uk](mailto:eleanor.green@york.ac.uk), [Twitter](https://x.com/EleJGreen)
+
 
 ## Roles:
 
