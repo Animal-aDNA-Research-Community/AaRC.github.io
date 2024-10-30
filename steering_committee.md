@@ -78,7 +78,7 @@ I am a group leader in the School of Biological Sciences at the University of Ea
 
 Contact: [a.bergstrom@uea.ac.uk](mailto:a.bergstrom@uea.ac.uk), [Twitter](https://twitter.com/andersbrgstrm)
 
-<img src="/assets/media/LachieScarsbrook_photo.jpeg" class="center" width="50%" >
+<img src="/assets/media/LachieScarsbrook_photo.jpg" class="center" width="50%" >
 
 Lachie Scarsbrook - Engagement Team
 
@@ -86,7 +86,7 @@ I am a Postdoctoral Researcher at Ludwig Maximilian University of Munich, and a 
 
 Contact: [lachlan.scarcbrook@arch.ox.ac.uk](mailto:lachlan.scarcbrook@arch.ox.ac.uk), [Twitter](https://x.com/LJScarsbrook)
 
-<img src="/assets/media/KatiaBougiouri_photo.jpeg" class="center" width="50%" >
+<img src="/assets/media/KatiaBougiouri_photo.png" class="center" width="50%" >
 
 Katia Bougiouri - Engagement Team
 
@@ -95,7 +95,7 @@ My research interests revolve around dog evolution, combining present-day and an
 
 Contact: [katia.bougiouri@gmail.com](mailto:katia.bougiouri@gmail.com), [Twitter](https://x.com/KBougiouri)
 
-<img src="/assets/media/EmilioMarmol_photo.jpeg" class="center" width="50%" >
+<img src="/assets/media/EmilioMarmol_photo.png" class="center" width="50%" >
 
 Emilio Mármol - Engagement Team
 
@@ -103,7 +103,7 @@ I am a Postdoctoral Researcher at the Center for Evolutionary Hologenomics withi
 
 Contact: [emilio.sanchez@sund.ku.dk](mailto:emilio.sanchez@sund.ku.dk), [emilio.marmol.sanchez@gmail.com](mailto:emilio.marmol.sanchez@gmail.com), [Twitter](https://x.com/MarmolE6)
 
-<img src="/assets/media/ElGreen_photo.jpeg" class="center" width="50%" >
+<img src="/assets/media/ElGreen_photo.jpg" class="center" width="50%" >
 
 Eleanor Green - Engagement Team
 
