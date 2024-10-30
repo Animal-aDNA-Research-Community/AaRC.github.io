@@ -16,7 +16,7 @@ Right now the Steering Committee is formed by a group of volunteers that got tog
 
 <img src="/assets/media/Mullin_Photo.jpg" class="center" width="50%" >
 
-Victoria E Mullin - Chair
+Victoria E Mullin - Chair, Treasury Team
 
 I am a postdoctoral researcher at Trinity College Dublin. I am particularly interested in applying ancient genomics to explore animal-human interactions. The main focus of my research surrounds domesticate animals, in particular cattle, from domestication to the development of breeds. Additionally, my work and interest includes the application of historical genomes for the establishment of genomic baselines for conservation.
 
@@ -34,7 +34,7 @@ Contact: [Pedro.Morell@lmu.de](mailto:Pedro.Morell@lmu.de), [Twitter](https://tw
 
 <img src="/assets/media/214LauraVinasCaron.jpg" class="center" width="50%" >
 
-Laura Viñas Caron - Secretary
+Laura Viñas Caron - Secretary, Treasury Team
 
 I am a postdoctoral researcher at the Centre for Textile Research and Globe Institute, University of Copenhagen. I am interested in understanding the evolutionary journey of domesticated animals using ancient DNA and proteins. In particular, I am exploring the development of domestic sheep and wool production and also working on the species identification of animal artefacts (manuscripts, skins, fur, textiles). 
 
