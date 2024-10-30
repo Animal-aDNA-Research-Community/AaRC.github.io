@@ -120,9 +120,9 @@ Contact: [eleanor.green@york.ac.uk](mailto:eleanor.green@york.ac.uk), [Twitter](
 
 - **Secretary**: Takes meeting minutes, sends them out via Slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
-**Treasurer team**
+**Treasury team**
 
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund AaRC initiatives.
+The treasury team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund AaRC initiatives.
 
 **Social media team**
 
