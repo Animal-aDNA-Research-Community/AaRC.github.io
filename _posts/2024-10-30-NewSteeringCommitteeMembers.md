@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We welcome our new Steering Committee Members!"
-date: 2024-04-05
+date: 2024-10-30
 categories: News 
 ---
 
