@@ -18,10 +18,19 @@ Dehasque and collaborators inferred that this population quickly recovered after
 However, as they did not analyze the very last woolly mammoths surviving in the Wrangel island, the final cause of the extinction of the woolly mammoths living in Wrangel island remains, as the authors emphasize, uncertain. It might have been caused by a sudden change in environmental conditions or pathogen outbreak leading to high mortality rates, or maybe the last generations of woolly mammoths suffered again a strong bottleneck effect with increased deleteriousness that rendered them finally unable to recover.
 
 ## References
-[1.	Nyström, V. et al. Temporal genetic change in the last remaining population of woolly mammoth. Proceedings of the Royal Society B: Biological Sciences 277, 2331–2337 (2010).]
-[2.	Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]
-[3.	Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]
-[4.	Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]
+1.	[Nyström, V. et al. Temporal genetic change in the last remaining population of woolly mammoth. Proceedings of the Royal Society B: Biological Sciences 277, 2331–2337 (2010).]
+
+2.	[Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]
+
+3.	[Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]
+
+4.	[Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]
+
+[1]:https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0301?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+[2]:https://www.sciencedirect.com/science/article/pii/S0031018209001692
+[3]:https://www.cell.com/current-biology/fulltext/S0960-9822(08)00970-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982208009706%3Fshowall%3Dtrue
+[4]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
+
 
 Below, Marianne shared with us further details about her profile, career, prospects and future projects:
 
