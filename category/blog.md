@@ -101,7 +101,7 @@ More recently, dr. Lebrasseur has expanded her research interest towards the int
 9. [Buhring, K. et al. Revisiting the evidence of the Arenal 1 site: Chronologies and human interactions in central southern Chile. The Journal of Island and Coastal Archaeology, 1-24 (2023).]
 
 
-[[1]]:https://openknowledge.fao.org/handle/20.500.14283/cd3755en
+[1]:https://openknowledge.fao.org/handle/20.500.14283/cd3755en
 [[2]]
 [[3]]
 [[4]]
