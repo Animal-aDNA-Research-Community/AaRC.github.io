@@ -111,8 +111,38 @@ More recently, dr. Lebrasseur has expanded her research interest towards the int
 [Best, J. et al. Redefining the timing and circumstances of the chicken’s introduction to Europe and north-west Africa. Antiquity 96, 868–882 (2022).]:https://www.cambridge.org/core/journals/antiquity/article/redefining-the-timing-and-circumstances-of-the-chickens-introduction-to-europe-and-northwest-africa/0797DAA570D51D988B0514C37C2EC534
 [Thomson, V. A. et al. Using ancient DNA to study the origins and dispersal of ancestral Polynesian chickens across the Pacific. Proc Natl Acad Sci U S A 111, 4826–4831 (2014).]:https://www.pnas.org/doi/10.1073/pnas.1320412111
 [Buhring, K. et al. Revisiting the evidence of the Arenal 1 site: Chronologies and human interactions in central southern Chile. The Journal of Island and Coastal Archaeology, 1-24 (2023).]:https://www.tandfonline.com/doi/full/10.1080/15564894.2023.2268551?scroll=top&needAccess=true#abstract
+[https://crbe.cnrs.fr/en/annuaire/lebrasseur/]:https://crbe.cnrs.fr/en/annuaire/lebrasseur/
 
+<br>
+<br>
+Below, Ophélie shared with us further details about her profile, career, prospects and future projects:<br><br>
 
+**1. Briefly introduce yourself. What is your origin story for how you got into science?** <br>
+I’m Ophélie Lebrasseur, a zooarchaeologist and palaeogeneticist working primarily on the biocultural history of chickens. My fascination with the past began at the age of seven after visiting a dinosaur exhibition. Granted, palaeotonlogy and archaeology are two different disciplines, and I eventually realised my true passion lay in understanding past human societies. 
+I quickly became enthralled by the world of zooarchaeology, and particularly the study of human-animal relationships. But I wanted to push the boundaries of what faunal assemblages could macroscopically tell us. I hence ventured in the field of ancient biomolecules – specifically ancient DNA.
+Funnily enough, since chickens are distant descendants of theropod dinosaurs, it seems I didn’t stray too far from my original plan as a seven-year-old!
+
+**2. How and/or why did you start working on this project?** <br>
+The domestic chicken (Gallus gallus domesticus) is the most ubiquitous bird on the planet and a dietary staple in numerous cultures across the world. In Neotropical America, the region contributes over a fifth to global poultry production, despite chickens having only arrived on the continent 500 years ago. This reflects a notable adaptation to new environments and integration within local societies. Yet we know surprisingly little about the circumstances of their introduction, the characterisation of local ecotypes, and the genetic adaptations that have enabled them to thrive across the region’s varied cultural, environmental, and climatic landscapes.
+Given the crucial role chickens play in the livelihoods of many of the world’s poorer communities, and the growing challenges posed by climate change – and against which the resilience of commercial poultry is questionable –, I became passionate about investigating and understanding the biocultural history and environmental adaptation of local chicken ecotypes on the continent. These populations may hold the key to sustainable poultry production in the future, ensuring food security and safety, and the well-being of communities across the global South.
+
+**3. Were there any major challenges in this project? How did you overcome them?** <br>
+Investigating the introduction of an animal to a new region requires a solid knowledge and understanding of the local fauna. South America presents a particular challenge as it is home to numerous species of tinamous (Tinamidae), some of which are widespread across most of the continent and similar in size to chickens. Yet comprehensive reference collections are often lacking, leading to frequent species misidentifications. We encountered a similar challenge during our re-evaluation of early chicken bones in Asia, where several of the presumed earliest chicken bones were in fact misidentified pheasants (Peters et al., 2022, PNAS). 
+To address and overcome this challenge, I focused on developing my knowledge and expertise of the local avifauna, including identifying species’ diagnostic morphometric and osteological markers, to ensure accurate species identification prior to proceeding with further analyses. Genetic analyses then confirmed my identifications for the most significant and interesting samples.
+
+**4. What do you think are the main take-home messages of this project?** <br>
+Stay tuned for an upcoming publication :)
+
+**5. What do you think is missing in the field that you would like to work on?** <br>
+The bridge between our research, the industry, and policymaking remains critically underdeveloped. This issue is one we are acutely aware of – it was, in fact, the main theme of the 44th conference of the Association for Environmental Archaeology which I attended in December 2024. The way I see it, the challenge lies not so much in how we communicate our findings and more in the nature of the research questions we investigate in regard to how closely they align with stakeholders’ priorities. 
+As researchers, we often pursue questions that inspire us and address significant topics within our fields, highlighting how our results could be used to address global challenges. Perhaps another approach would be to engage and interact directly with the stakeholders (including industry partners) to co-design research questions. By aligning our research interests with industry priorities and, where relevant, national agendas, we could develop projects that are both academically enriching and practically impactful. At least, that would be the ideal outcome.
+At present, I am strengthening my collaborations with the poultry industry to gain a clearer understanding of their priorities and the insights they would find most valuable. My hope is to develop partnerships that can effectively contribute to ensuring food safety and security through poultry production.
+
+**6. Where do you see yourself in the near future?** <br>
+I am very fortunate to have been offered a permanent research position at the French National Institute for Sustainable Development (IRD) in Toulouse, France, in November 2024. I look forward to developing and leading my own research team where we will work closely with colleagues in South America and Africa. I am also working on enhancing mobility between countries of the global south, and between the global south and the global north, with the aim of advancing capacity building initiatives in zooarchaeology and palaeogenomics in South America and Africa.
+
+**7. Free space to tell something you would like to remark.** <br>
+I am always open to exploring potential collaborations on projects related to ancient and modern chickens (and other birds) in Latin America. I am also committed to supporting capacity building in zooarchaeology and palaeogenomics for researchers from Latin American and African countries. If you have project ideas you would like to pursue but require additional expertise or are interested in organizing workshops to develop specific skills, I would be happy to discuss how we might work together. Please feel free to reach out if this aligns with your interests. My institutional webpage is: [https://crbe.cnrs.fr/en/annuaire/lebrasseur/]
 
 
 
