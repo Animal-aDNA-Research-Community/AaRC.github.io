@@ -37,32 +37,28 @@ However, as they did not analyze the very last woolly mammoths surviving in the 
 [Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
 
 
-&nbsp;
+<br><br>
 Below, Marianne shared with us further details about her profile, career, prospects and future projects:
 
-**1.	Briefly introduce yourself. What is your origin story for how you got into science?**
+**1.	Briefly introduce yourself. What is your origin story for how you got into science?** <br><br>
 Hi, I’m Marianne, a postdoctoral researcher at Uppsala University in Sweden. My current work focuses on the genomics of feralization in sheep, using both contemporary and ancient DNA. Before this, I completed my PhD at Stockholm University, where I studied the genomics of the last woolly mammoth population on Wrangel Island. If you created a word cloud of my research interests, you’d probably see words like “woolly,” “island,” and “ancient DNA” standing out.
 
-**2.	How and/or why did you start working on this project?**
+**2.	How and/or why did you start working on this project?** <br><br>
 The mammoth project has already been going on for over 20 years. I joined the team as a PhD student in 2018. I sometimes joke that “I am number four”, referring to being Love Dalén’s fourth PhD student working on mammoths.
 What makes the Wrangel Island mammoth population so fascinating -aside from being the enigmatic last woolly mammoth population – is how closely their story mirrors the challenges of many present-day species threatened by climate change and habitat loss. This makes the Wrangel mammoths an excellent system to study and test long-standing hypotheses on the evolutionary processes in small, declining populations. The insights we gain can hopefully also contribute to the field of conservation genomics and help us better understand how to protect endangered species today.
 
-**3.	Were there any major challenges in this project? How did you overcome them?**
-
+**3.	Were there any major challenges in this project? How did you overcome them?** <br><br>
 Like most scientific projects, this one had its fair share of challenges—some bigger than others. One standout moment involves a mammoth nicknamed "Lonely Boy." I wrote a piece about our adventures with Lonely Boy in The Conversation (here), but to keep things brief, we invested a lot of time (and money!) into analyzing a precious sample that, in the end, turned out to be a completely average mammoth.
 
-**4.	What do you think are the main take-home messages of this project?**
-
+**4.	What do you think are the main take-home messages of this project?** <br><br>
 I would say there are two take-home messages in this project.
 The first one being that the mammoths on Wrangel Island were not doomed by their small population size. Instead, a sudden and short event likely caused the population’s demise. This challenges earlier hypotheses, suggesting that an accumulation of genomic defect led to the Wrangel mammoth’s extinction. Those earlier studies relied on limited data, such as small markers or a single Wrangel Island genome. In our study, we analyzed a dataset of 21 serially sampled mammoth genomes, providing us a much more complex and nuanced understanding of the mammoth’s extinction.
 Second, despite quickly recovering from a sudden population decline, the Wrangel mammoths suffered from inbreeding depression for over 6,000 years. This is an important finding for conservation – as it implies that just restoring population size may not be sufficient to ensure a viable population. Instead, active genetic monitoring is essential to safeguard against long-term population bottleneck-related issues.
 
-**5.	What do you think is missing in the field that you would like to work on?**
-
+**5.	What do you think is missing in the field that you would like to work on?** <br><br>
 Most ancient genomic research has focused on SNP’s and small indels, but the world of structural variants remains largely unexplored. I believe that further exploring this type of genetic variation could reveal exciting new insights into evolutionary processes over time.
 
-**6.	Where do you see yourself in the near future?**
-
+**6.	Where do you see yourself in the near future?** <br><br>
 In a sunnier place than Sweden. Preferably somewhere with a nice beach.
 
 
