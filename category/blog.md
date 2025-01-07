@@ -34,6 +34,7 @@ However, as they did not analyze the very last woolly mammoths surviving in the 
 [Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]:https://www.sciencedirect.com/science/article/pii/S0031018209001692
 [Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]:https://www.cell.com/current-biology/fulltext/S0960-9822(08)00970-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982208009706%3Fshowall%3Dtrue
 [Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
+[The Conversation]:https://theconversation.com/did-inbreeding-cause-the-woolly-mammoths-extinction-our-research-suggests-it-was-more-sudden-than-that-233119
 
 
 <br>
@@ -48,7 +49,7 @@ The mammoth project has already been going on for over 20 years. I joined the te
 What makes the Wrangel Island mammoth population so fascinating -aside from being the enigmatic last woolly mammoth population – is how closely their story mirrors the challenges of many present-day species threatened by climate change and habitat loss. This makes the Wrangel mammoths an excellent system to study and test long-standing hypotheses on the evolutionary processes in small, declining populations. The insights we gain can hopefully also contribute to the field of conservation genomics and help us better understand how to protect endangered species today.<br><br>
 
 **3.	Were there any major challenges in this project? How did you overcome them?** <br>
-Like most scientific projects, this one had its fair share of challenges—some bigger than others. One standout moment involves a mammoth nicknamed "Lonely Boy." I wrote a piece about our adventures with Lonely Boy in The Conversation (here), but to keep things brief, we invested a lot of time (and money!) into analyzing a precious sample that, in the end, turned out to be a completely average mammoth.<br><br>
+Like most scientific projects, this one had its fair share of challenges—some bigger than others. One standout moment involves a mammoth nicknamed "Lonely Boy." I wrote a piece about our adventures with Lonely Boy in [[The Conversation]], but to keep things brief, we invested a lot of time (and money!) into analyzing a precious sample that, in the end, turned out to be a completely average mammoth.<br><br>
 
 **4.	What do you think are the main take-home messages of this project?** <br>
 I would say there are two take-home messages in this project:
@@ -64,7 +65,7 @@ In a sunnier place than Sweden. Preferably somewhere with a nice beach.
 <br><br><br><br>
 
 ## The mysteries of chicken domestication and its worldwide expansion
-The domestic chicken (Gallus gallus domesticus) is one of the main sources of animal protein consumed worldwide [[1]]. Given its importance in the current human diet and food industry, gaining accurate knowledge about the chicken’s origin, domestication process, and global expansion is important for understanding world agrobiodiversity and guiding future breeding and management strategies. However, the birthplace of domestic chickens remained long contested, with studies supporting a Southeast Asian [[2]] or a South Asian origin [[3]], while others argued for a Northern China origin [[4]]. Reanalysis based on modern genomic information led to the identification of the subspecies of red junglefowl Gallus gallus spadiceus as the most likely progenitor of domestic chickens [[5]], with the domestic lineage diverging around 12,800 to 6,200 years ago.
+The domestic chicken (Gallus gallus domesticus) is one of the main sources of animal protein consumed worldwide [1]. Given its importance in the current human diet and food industry, gaining accurate knowledge about the chicken’s origin, domestication process, and global expansion is important for understanding world agrobiodiversity and guiding future breeding and management strategies. However, the birthplace of domestic chickens remained long contested, with studies supporting a Southeast Asian [[2]] or a South Asian origin [[3]], while others argued for a Northern China origin [[4]]. Reanalysis based on modern genomic information led to the identification of the subspecies of red junglefowl Gallus gallus spadiceus as the most likely progenitor of domestic chickens [[5]], with the domestic lineage diverging around 12,800 to 6,200 years ago.
 
 In their recent work, dr. Ophélie Lebrasseur and collaborators reevaluated the taxonomic identification, dating, and domestic status of around 600 archaeological chicken remains from 89 countries across Asia, Oceania, Europe, and Africa. By applying a conservative approach that accounted for known biases such as insecure stratigraphic dating, possible species misidentification with the local wild avifauna, and the cultural and environmental context [[6]], they challenged previous claims that placed the domestication of chickens around the Indus valley or Northern China. Instead, Lebrasseur et al. determined that the earliest domestic chicken remains had been found at the Neolithic site of Ban Non Wat in central Thailand and dated to 1,650 to 1,250 BCE. While this finding does not pinpoint a domestication event at that precise location or time, it implies that domestication occurred later than previously claimed [[2]],[[4]]. Following their domestication, chickens expanded towards Central China, South Asia, and Mesopotamia by the late second millennium BCE, followed by a western dispersal to the Mediterranean and Africa around 700 BCE [[6]],[[7]].
 
@@ -96,15 +97,8 @@ More recently, dr. Lebrasseur has expanded her research interest towards the int
 9. [Buhring, K. et al. Revisiting the evidence of the Arenal 1 site: Chronologies and human interactions in central southern Chile. The Journal of Island and Coastal Archaeology, 1-24 (2023).]
 
 
-[1]:https://openknowledge.fao.org/handle/20.500.14283/cd3755en
-[[2]]
-[[3]]
-[[4]]
-[[5]]
-[[6]]
-[[7]]
-[[8]]
-[[9]]
+[FAO. Agricultural production statistics 2010–2023]:https://openknowledge.fao.org/handle/20.500.14283/cd3755en
+
 
 
 
