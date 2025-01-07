@@ -48,17 +48,21 @@ The mammoth project has already been going on for over 20 years. I joined the te
 What makes the Wrangel Island mammoth population so fascinating -aside from being the enigmatic last woolly mammoth population – is how closely their story mirrors the challenges of many present-day species threatened by climate change and habitat loss. This makes the Wrangel mammoths an excellent system to study and test long-standing hypotheses on the evolutionary processes in small, declining populations. The insights we gain can hopefully also contribute to the field of conservation genomics and help us better understand how to protect endangered species today.
 
 **3.	Were there any major challenges in this project? How did you overcome them?**
+
 Like most scientific projects, this one had its fair share of challenges—some bigger than others. One standout moment involves a mammoth nicknamed "Lonely Boy." I wrote a piece about our adventures with Lonely Boy in The Conversation (here), but to keep things brief, we invested a lot of time (and money!) into analyzing a precious sample that, in the end, turned out to be a completely average mammoth.
 
 **4.	What do you think are the main take-home messages of this project?**
+
 I would say there are two take-home messages in this project.
 The first one being that the mammoths on Wrangel Island were not doomed by their small population size. Instead, a sudden and short event likely caused the population’s demise. This challenges earlier hypotheses, suggesting that an accumulation of genomic defect led to the Wrangel mammoth’s extinction. Those earlier studies relied on limited data, such as small markers or a single Wrangel Island genome. In our study, we analyzed a dataset of 21 serially sampled mammoth genomes, providing us a much more complex and nuanced understanding of the mammoth’s extinction.
 Second, despite quickly recovering from a sudden population decline, the Wrangel mammoths suffered from inbreeding depression for over 6,000 years. This is an important finding for conservation – as it implies that just restoring population size may not be sufficient to ensure a viable population. Instead, active genetic monitoring is essential to safeguard against long-term population bottleneck-related issues.
 
 **5.	What do you think is missing in the field that you would like to work on?**
+
 Most ancient genomic research has focused on SNP’s and small indels, but the world of structural variants remains largely unexplored. I believe that further exploring this type of genetic variation could reveal exciting new insights into evolutionary processes over time.
 
 **6.	Where do you see yourself in the near future?**
+
 In a sunnier place than Sweden. Preferably somewhere with a nice beach.
 
 
