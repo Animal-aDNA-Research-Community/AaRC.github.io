@@ -7,7 +7,7 @@ title: Blog
 
 ## January 2025
 # Redefining the demise and extinction of the woolly mammoth
-The woolly mammoth (*Mammuthus primigenius*) was a greatly successful species characteristic of the Pleistocene megafauna in Eurasia, roaming around the whole northern part of the continent for millennia [[1]], reaching up to Mediterranean seashores during their highest expansion range [[2]], and even migrating to the American continent and again back to Eurasia through the Bering land bridge due to sea level downfall during the last Ice Age [[3]]. The causes of their final disappearance, first from continental mainland and subsequently from their last northern Arctic refugia remain, however, debated. Dr. Marianne Dehasque shared with us one of her last research studies where she tried to elucidate what happened to the last woolly mammoths at the genomic level [[4]]. In this way, we can learn unvaluable lessons of how near-extinction events affect animal populations in the present, and improve conservation efforts to preserve endangered species.
+The woolly mammoth (*Mammuthus primigenius*) was a greatly successful species characteristic of the Pleistocene megafauna in Eurasia, roaming around the whole northern part of the continent for millennia [(Nyström, et al. 2010)], reaching up to Mediterranean seashores during their highest expansion range [[2]], and even migrating to the American continent and again back to Eurasia through the Bering land bridge due to sea level downfall during the last Ice Age [[3]]. The causes of their final disappearance, first from continental mainland and subsequently from their last northern Arctic refugia remain, however, debated. Dr. Marianne Dehasque shared with us one of her last research studies where she tried to elucidate what happened to the last woolly mammoths at the genomic level [[4]]. In this way, we can learn unvaluable lessons of how near-extinction events affect animal populations in the present, and improve conservation efforts to preserve endangered species.
 
 <img src="/assets/media/Blog_January_2025_MD_Figure.jpg" style="display:block;margin-left:auto;margin-right:auto;" width=100%;>
 <p><em>Woolly mammoth in the Siberian steppe. Picture created by Beth Zaiken.</em></p>
@@ -30,7 +30,7 @@ However, as they did not analyze the very last woolly mammoths surviving in the 
 
 4. [Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]
 
-[1]:https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0301?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+[Nyström et al. 2010]:https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0301?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
 [2]:https://www.sciencedirect.com/science/article/pii/S0031018209001692
 [3]:https://www.cell.com/current-biology/fulltext/S0960-9822(08)00970-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982208009706%3Fshowall%3Dtrue
 [4]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
