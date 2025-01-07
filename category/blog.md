@@ -38,9 +38,9 @@ However, as they did not analyze the very last woolly mammoths surviving in the 
 
 
 <br><br>
-Below, Marianne shared with us further details about her profile, career, prospects and future projects:
+Below, Marianne shared with us further details about her profile, career, prospects and future projects:<br><br>
 
-**1.	Briefly introduce yourself. What is your origin story for how you got into science?** <br><br>
+**1.	Briefly introduce yourself. What is your origin story for how you got into science?** <br>
 Hi, I’m Marianne, a postdoctoral researcher at Uppsala University in Sweden. My current work focuses on the genomics of feralization in sheep, using both contemporary and ancient DNA. Before this, I completed my PhD at Stockholm University, where I studied the genomics of the last woolly mammoth population on Wrangel Island. If you created a word cloud of my research interests, you’d probably see words like “woolly,” “island,” and “ancient DNA” standing out.
 
 **2.	How and/or why did you start working on this project?** <br><br>
