@@ -22,13 +22,13 @@ Dehasque and collaborators inferred that this population quickly recovered after
 However, as they did not analyze the very last woolly mammoths surviving in the Wrangel island, the final cause of the extinction of the woolly mammoths living in Wrangel island remains, as the authors emphasize, uncertain. It might have been caused by a sudden change in environmental conditions or pathogen outbreak leading to high mortality rates, or maybe the last generations of woolly mammoths suffered again a strong bottleneck effect with increased deleteriousness that rendered them finally unable to recover.
 
 ## References
-1.	[Nyström, V. et al. Temporal genetic change in the last remaining population of woolly mammoth. Proceedings of the Royal Society B: Biological Sciences 277, 2331–2337 (2010).]
+1. [Nyström, V. et al. Temporal genetic change in the last remaining population of woolly mammoth. Proceedings of the Royal Society B: Biological Sciences 277, 2331–2337 (2010).]
 
-2.	[Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]
+2. [Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]
 
-3.	[Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]
+3. [Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]
 
-4.	[Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]
+4. [Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]
 
 [1]:https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0301?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
 [2]:https://www.sciencedirect.com/science/article/pii/S0031018209001692
@@ -76,9 +76,40 @@ In their recent work, dr. Ophélie Lebrasseur and collaborators reevaluated the 
 <img src="/assets/media/Blog_January_2025_OL_Figure.jpg" style="display:block;margin-left:auto;margin-right:auto;" width=50%;>
 <p><em>Species identification of Argentinian archaeological bird bones using the reference collection hosted at the Fundación de Historia Natural Félix de Azara. Chicken bones were then sent for ancient DNA analyses. With special thanks to Sergio Bogan. Picture by Ophélie Lebrasseur. </em></p>
 
+<br>
 Moreover, dr. Lebrasseur and collaborators proposed that chicken domestication occurred alongside the dispersal of rain-fed dry rice agriculture in Southeast Asia, whereby land claimed for cereal cultivation and the new environmental conditions it created may have attracted wild red junglefowls.  This would have allowed closer interactions between these wild birds and human societies, eventually leading to their domestication through a commensal pathway, and their later dispersal to other regions alongside the expansion of rice or millet agriculture.
 
 More recently, dr. Lebrasseur has expanded her research interest towards the introduction of domestic chickens to the Americas. In this regard, previous studies questioned the evidence of pre-Columbian domesticated chickens in South American archeological sites, with presumably “chicken” bone remains probably belonging to other endemic wild birds, thus discarding a Polynesian introduction prior to a European introduction of domestic chickens [[8]],[[9]]. Additional work is currently ongoing using ancient DNA and morphological techniques on chicken-like bones from other archeological sites to confirm their taxonomic identity. These findings will be linked to the societal and cultural context in order to establish a more comprehensive picture of the dispersal of domestic chickens and their roles in local societies across the Americas following their introduction by the Europeans.
+
+## References
+1. [FAO. Agricultural production statistics 2010–2023].
+     
+2. [West, B. & Zhou, B. X. Did chickens go North? New evidence for domestication. J Archaeol Sci 15, 515–533 (1988).]
+   
+3. [Zeuner, F. E. A History of Domesticated Animals. (Hutchinson & Co., London, 1963).]
+
+4. [Xiang, H. et al. Early Holocene chicken domestication in northern China. Proc Natl Acad Sci U S A 111, 17564–17569 (2014).]
+   
+5. [Wang, M. S. et al. 863 genomes reveal the origin and domestication of chicken. Cell Res 30, 693–701 (2020).]
+   
+6. [Peters, J. et al. The biocultural origins and dispersal of domestic chickens. Proc Natl Acad Sci U S A 119, e2121978119 (2022).]
+   
+7. [Best, J. et al. Redefining the timing and circumstances of the chicken’s introduction to Europe and north-west Africa. Antiquity 96, 868–882 (2022).]
+   
+8. [Thomson, V. A. et al. Using ancient DNA to study the origins and dispersal of ancestral Polynesian chickens across the Pacific. Proc Natl Acad Sci U S A 111, 4826–4831 (2014).]
+   
+9. [Buhring, K. et al. Revisiting the evidence of the Arenal 1 site: Chronologies and human interactions in central southern Chile. The Journal of Island and Coastal Archaeology, 1-24 (2023).]
+
+
+[[1]]:https://openknowledge.fao.org/handle/20.500.14283/cd3755en
+[[2]]
+[[3]]
+[[4]]
+[[5]]
+[[6]]
+[[7]]
+[[8]]
+[[9]]
 
 
 
