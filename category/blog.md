@@ -31,7 +31,13 @@ However, as they did not analyze the very last woolly mammoths surviving in the 
 [3]:https://www.cell.com/current-biology/fulltext/S0960-9822(08)00970-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982208009706%3Fshowall%3Dtrue
 [4]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
 
+[Nyström, V. et al. Temporal genetic change in the last remaining population of woolly mammoth. Proceedings of the Royal Society B: Biological Sciences 277, 2331–2337 (2010).]:https://royalsocietypublishing.org/doi/10.1098/rspb.2010.0301?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+[Álvarez-Lao, D. J., Kahlke, R. D., García, N. & Mol, D. The Padul mammoth finds — On the southernmost record of Mammuthus primigenius in Europe and its southern spread during the Late Pleistocene. Palaeogeogr Palaeoclimatol Palaeoecol 278, 57–70 (2009).]:https://www.sciencedirect.com/science/article/pii/S0031018209001692
+[Debruyne, R. et al. Out of America: Ancient DNA Evidence for a New World Origin of Late Quaternary Woolly Mammoths. Current Biology 18, 1320–1326 (2008).]:https://www.cell.com/current-biology/fulltext/S0960-9822(08)00970-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982208009706%3Fshowall%3Dtrue
+[Dehasque, M. et al. Temporal dynamics of woolly mammoth genome erosion prior to extinction. Cell 187, 3531-3540.e13 (2024).]:https://www.cell.com/cell/fulltext/S0092-8674(24)00577-4
 
+
+&nbsp;
 Below, Marianne shared with us further details about her profile, career, prospects and future projects:
 
 **1.	Briefly introduce yourself. What is your origin story for how you got into science?**
