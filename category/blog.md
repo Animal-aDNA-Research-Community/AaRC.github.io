@@ -7,4 +7,4 @@ title: Blog
 
 All blog posts from AaRC can be found below.
 
-<!-- The AaRC blog is curated by [Emilio Mármol](https://x.com/MarmolE6). -->
+The AaRC blog is curated by [Emilio Mármol](https://x.com/MarmolE6).
