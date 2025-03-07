@@ -4,7 +4,7 @@ title: "AaRC MInAS metadata feedback session"
 categories: Events
 tags: AaRCTikTalks
 ---
-![AaRC MInAS event flyer](assets/media/event_images/MInAS-AaRC_ad.png "AaRCT MInAS metadata feedback session")
+![AaRC MInAS event flyer](/assets/media/event_images/MInAS-AaRC_ad.png "AaRCT MInAS metadata feedback session")
 
 AaRC members!
 
