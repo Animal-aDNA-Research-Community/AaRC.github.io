@@ -27,26 +27,45 @@ Another interesting finding was the strong male-sex bias found for chum salmon r
 Contrary to post-contact and industrial practices, Indigenous ancestral fisheries seem to have been sustainable over millennia, with an uninterrupted archaeological record that justifies the presence of permanent human settlements that managed salmon populations to ensure future food stocks without impacting ecosystemic equilibriums. Despite modern developments that have greatly modified the Burrard Inlet area and the species living within, the Tsleil-Waututh Nation and their ancestral practices are well positioned to contribute towards a sustainable salmon fishery once again.
 
 &nbsp;
-&nbsp;
 
-**References**
+## References
 1.	Morin, J. Tsleil-Waututh Nation's History, Culture and Aboriginal Interests in Eastern Burrard Inlet. Report on file, Gowlings, Lafleur, Henderson LLP, Vancouver (2015).
 2.	Efford, M. et al. Archaeology demonstrates sustainable ancestral Coast Salish salmon stewardship over thousands of years. PLoS One 18, e0289797 (2023).
 3.	Morin, J. et al. DNA-based species identification of ancient salmonid remains provides new insight into pre-contact Coast Salish salmon fisheries in Burrard Inlet, British Columbia, Canada. J Archaeol Sci Rep 37, 102956 (2021).
 4.	Morin, J. et al. Indigenous sex-selective salmon harvesting demonstrates pre-contact marine resource management in Burrard Inlet, British Columbia, Canada. Sci Rep 11, 21160 (2021).
 
+&nbsp;
+
 Below, Jesse shared with us further details about her profile, career, prospects and future projects:
-1.	Briefly introduce yourself. What is your origin story for how you got into science?
+
+&nbsp;
+
+**1.	Briefly introduce yourself. What is your origin story for how you got into science?**
 I actually started in hard science and started archaeology to get out of it. But, then it became apparent that scientific tools are really the core of a lot of archaeological investigations, so I began to collaborate more with geneticists and chemists to address archaeological research issues.
-2.	How and/or why did you start working on this project?
+
+&nbsp;
+
+**2.	How and/or why did you start working on this project?**
 I had designed this project around 2017 as a way of addressing both past Tsleil-Waututh subsistence and the pre-contact ecology of Burrard Inlet. We obtained funding for the work in 2019 and got started, and published our results in 2021.
-3.	Were there any major challenges in this project? How did you overcome them?
+
+&nbsp;
+
+**3.	Were there any major challenges in this project? How did you overcome them?**
 Funding was the limitation for the work.
-4.	What do you think are the main take-home messages of this project?
+
+&nbsp;
+
+**4.	What do you think are the main take-home messages of this project?**
 Demonstration of the long-term success of Indigenous resource stewardship.
-5.	What do you think is missing in the field that you would like to work on?
+
+&nbsp;
+
+**5.	What do you think is missing in the field that you would like to work on?**
 More samples from more sites/regions, and population genetics of the salmon species of interest to explore abundance through time.
-6.	Where do you see yourself in the near future?
+
+&nbsp;
+
+**6.	Where do you see yourself in the near future?**
 Addressing the issue above, and undertaking a parallel project on Vancouver Island.
 
 
