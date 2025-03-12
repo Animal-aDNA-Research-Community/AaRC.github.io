@@ -25,10 +25,16 @@ Contrary to post-contact and industrial practices, Indigenous ancestral fisherie
 &nbsp;
 
 ## References
-1.	Morin, J. Tsleil-Waututh Nation's History, Culture and Aboriginal Interests in Eastern Burrard Inlet. Report on file, Gowlings, Lafleur, Henderson LLP, Vancouver (2015).
-2.	Efford, M. et al. Archaeology demonstrates sustainable ancestral Coast Salish salmon stewardship over thousands of years. PLoS One 18, e0289797 (2023).
-3.	Morin, J. et al. DNA-based species identification of ancient salmonid remains provides new insight into pre-contact Coast Salish salmon fisheries in Burrard Inlet, British Columbia, Canada. J Archaeol Sci Rep 37, 102956 (2021).
-4.	Morin, J. et al. Indigenous sex-selective salmon harvesting demonstrates pre-contact marine resource management in Burrard Inlet, British Columbia, Canada. Sci Rep 11, 21160 (2021).
+1.	[Morin, J. Tsleil-Waututh Nation's History, Culture and Aboriginal Interests in Eastern Burrard Inlet. Report on file, Gowlings, Lafleur, Henderson LLP, Vancouver (2015).]
+2.	[Efford, M. et al. Archaeology demonstrates sustainable ancestral Coast Salish salmon stewardship over thousands of years. PLoS One 18, e0289797 (2023).]
+3.	[Morin, J. et al. DNA-based species identification of ancient salmonid remains provides new insight into pre-contact Coast Salish salmon fisheries in Burrard Inlet, British Columbia, Canada. J Archaeol Sci Rep 37, 102956 (2021).]
+4.	[Morin, J. et al. Indigenous sex-selective salmon harvesting demonstrates pre-contact marine resource management in Burrard Inlet, British Columbia, Canada. Sci Rep 11, 21160 (2021).]
+
+[Morin, J. Tsleil-Waututh Nation's History, Culture and Aboriginal Interests in Eastern Burrard Inlet. Report on file, Gowlings, Lafleur, Henderson LLP, Vancouver (2015).]:https://docslib.org/doc/6033653/tsleil-waututh-nations-history-culture-and
+[Efford, M. et al. Archaeology demonstrates sustainable ancestral Coast Salish salmon stewardship over thousands of years. PLoS One 18, e0289797 (2023).]:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289797
+[Morin, J. et al. DNA-based species identification of ancient salmonid remains provides new insight into pre-contact Coast Salish salmon fisheries in Burrard Inlet, British Columbia, Canada. J Archaeol Sci Rep 37, 102956 (2021).]:https://www.sciencedirect.com/science/article/abs/pii/S2352409X21001681
+[Morin, J. et al. Indigenous sex-selective salmon harvesting demonstrates pre-contact marine resource management in Burrard Inlet, British Columbia, Canada. Sci Rep 11, 21160 (2021).]:https://www.nature.com/articles/s41598-021-00154-4
+
 
 &nbsp;
 
