@@ -43,7 +43,7 @@ Contrary to post-contact and industrial practices, Indigenous ancestral fisherie
 
 &nbsp;
 
-Below, Jesse shared with us further details about her profile, career, prospects and future projects:
+Below, Jesse shared with us further details about his profile, career, prospects and future projects:
 &nbsp;
 
 **1.	Briefly introduce yourself. What is your origin story for how you got into science?** <br>
