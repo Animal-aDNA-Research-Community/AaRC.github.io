@@ -13,7 +13,7 @@ As a modern developed and vibrant cosmopolitan area, human urbanism and economic
 
 ![Ancestral people & salmons](/assets/media/Blog_February_2025_JM_Figure.jpg "Ancestral people & salmons")
 
-<p><em>Tsleil-Waututh Nation and chum salmons. Pictures provided by BillB200 and Vineyard under CC-BY-SA.</em></p>
+<p><em>Tsleil-Waututh Nation and chum salmons. Pictures provided by BillB200 & Vineyard under CC-BY-SA.</em></p>
 &nbsp;
 
 One of the most prominent archaeological sites studied so far is known as təmtəmíxʷtən, a large settlement located centrally within the Tsleil-Waut territory in the final intersection of the Burrard Inlet around the Indian arm, a privileged spot for accessing salmon and other fisheries. Dr. Jesse Morin has been investigating the archeological evidence of this ancient human settlement and they ways that Tsleil-Waututh managed the ecosystem for ensuring a stable and sustainable food supply based on fishing and harvesting.
