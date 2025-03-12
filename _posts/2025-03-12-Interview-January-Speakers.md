@@ -11,6 +11,8 @@ Vancouver is currently the major city across the Canadian Pacific coast, and the
 As a modern developed and vibrant cosmopolitan area, human urbanism and economic activities have made a huge impact in the surrounding ecosystem, with the loss of multiple local habitats and animal and plant populations that once thrived in the region. Back before European colonization, the scenery was radically different: What is now known as the Burrard Inlet was then called səlilwət, a territory of the Tsleil-Waututh community, and Indigenous Coast Salish culture that settled and lived along those inlet coastlines for millennia [**1**,**2**]. Central to the Tsleil-Waututh society was the fishing and harvesting of shellfish, as a way of sustaining a diet comprising salmon, herring, waterfowl, and clams, with berries, plant foods, fruits, deer, ling cod, anchovy, eulachon, and halibut, among others. From these, salmon consumption and its transformation for long storage was a key resource, with an estimate of around 300-350 kg consumed per person per year, thus allowing permanent settlements year-round.
 &nbsp;
 
+![Ancestral people & salmons](/assets/media/Blog_February_2025_JM_Figure.jpg "Ancestral people & salmons")
+
 One of the most prominent archaeological sites studied so far is known as təmtəmíxʷtən, a large settlement located centrally within the Tsleil-Waut territory in the final intersection of the Burrard Inlet around the Indian arm, a privileged spot for accessing salmon and other fisheries. Dr. Jesse Morin has been investigating the archeological evidence of this ancient human settlement and they ways that Tsleil-Waututh managed the ecosystem for ensuring a stable and sustainable food supply based on fishing and harvesting.
 &nbsp;
 
