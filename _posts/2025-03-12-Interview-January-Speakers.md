@@ -33,27 +33,27 @@ Contrary to post-contact and industrial practices, Indigenous ancestral fisherie
 Below, Jesse shared with us further details about her profile, career, prospects and future projects:
 &nbsp;
 
-**1.	Briefly introduce yourself. What is your origin story for how you got into science?**
+**1.	Briefly introduce yourself. What is your origin story for how you got into science?** <br>
 I actually started in hard science and started archaeology to get out of it. But, then it became apparent that scientific tools are really the core of a lot of archaeological investigations, so I began to collaborate more with geneticists and chemists to address archaeological research issues.
 &nbsp;
 
-**2.	How and/or why did you start working on this project?**
+**2.	How and/or why did you start working on this project?** <br>
 I had designed this project around 2017 as a way of addressing both past Tsleil-Waututh subsistence and the pre-contact ecology of Burrard Inlet. We obtained funding for the work in 2019 and got started, and published our results in 2021.
 &nbsp;
 
-**3.	Were there any major challenges in this project? How did you overcome them?**
+**3.	Were there any major challenges in this project? How did you overcome them?** <br>
 Funding was the limitation for the work.
 &nbsp;
 
-**4.	What do you think are the main take-home messages of this project?**
+**4.	What do you think are the main take-home messages of this project?** <br>
 Demonstration of the long-term success of Indigenous resource stewardship.
 &nbsp;
 
-**5.	What do you think is missing in the field that you would like to work on?**
+**5.	What do you think is missing in the field that you would like to work on?** <br>
 More samples from more sites/regions, and population genetics of the salmon species of interest to explore abundance through time.
 &nbsp;
 
-**6.	Where do you see yourself in the near future?**
+**6.	Where do you see yourself in the near future?** <br>
 Addressing the issue above, and undertaking a parallel project on Vancouver Island.
 
 
