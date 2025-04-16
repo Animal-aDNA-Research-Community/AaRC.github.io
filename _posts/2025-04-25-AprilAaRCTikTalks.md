@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AaRCTikTalks February 2025"
+title: "AaRCTikTalks April 2025"
 categories: Events
 tags: AaRCTikTalks
 ---
