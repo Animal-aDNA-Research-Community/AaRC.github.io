@@ -17,7 +17,6 @@ Natural History Museums around the world hold vast collections of plants and ani
 
 <p><em>"The American Museum of Natural History" in Frank Leslie's Popular Monthly, Vol. XXXI, No. 4 (page 393). 1981.</em></p>
 &nbsp;
-
 These pioneers had no knowledge of molecular biology, yet they were similarly preoccupied with obtaining the best preservation possible of once-living specimens to be stored in museum collections for their study. Beyond external and morphological fixation of skins and other tissues to permanently capture the looks of living species, now dead and stored far away from their habitats, the advent of DNA recovery and sequencing from ancient and historical specimens opened a new range of previously unrecognized challenges. More than a mere aesthetic fixation, it became painfully evident that most of the chemicals and procedures undergone a long time ago on many museum specimens might not have been the best to ensure proper DNA survival within the tissues.
 &nbsp;
 
