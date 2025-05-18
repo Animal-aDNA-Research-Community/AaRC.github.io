@@ -39,7 +39,6 @@ As part of her project, Dr. Penna, in collaboration with Dr. Alexander Salis and
    
 [Applications of Museum Collections and Genomics to Biodiversity Conservation]:https://digitallibrary.amnh.org/items/c369d539-4b73-469b-9fb5-913122381d3f
 
-
 2.	[Designing a Conservation Genomics Project Incorporating DNA from Museum Specimens]
    
 [Designing a Conservation Genomics Project Incorporating DNA from Museum Specimens]:https://digitallibrary.amnh.org/items/09ec5668-aa51-4054-b355-9743e9c4f9f1
@@ -68,6 +67,10 @@ As part of her project, Dr. Penna, in collaboration with Dr. Alexander Salis and
 [Masters, J. C. et al. A new genus for the eastern dwarf galagos (Primates: Galagidae). Zool J Linn Soc 181, 229–241 (2017).]:https://academic.oup.com/zoolinnean/article-abstract/181/1/229/2976136?redirectedFrom=fulltext&login=false
 [Fontsere, C. et al. Population dynamics and genetic connectivity in recent chimpanzee history. Cell Genomics 2, None (2022).]:https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00062-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666979X22000623%3Fshowall%3Dtrue
 
+[Applications of Museum Collections and Genomics to Biodiversity Conservation]:https://digitallibrary.amnh.org/items/c369d539-4b73-469b-9fb5-913122381d3f
+[Designing a Conservation Genomics Project Incorporating DNA from Museum Specimens]:https://digitallibrary.amnh.org/items/09ec5668-aa51-4054-b355-9743e9c4f9f1
+[The Application of Conservation Museomics Approaches to the Protection of the Iberian Lynx (*Lynx pardinus*)]:https://digitallibrary.amnh.org/items/9d06c0ee-63a7-49ad-b32e-fce3b17acc88
+
 &nbsp;
 
 Below, Anna shared with us further details about her profile, career, prospects and future projects:
@@ -90,7 +93,7 @@ I reached out to colleagues in ancient DNA research and museum curation to troub
 This experience highlighted how little we know about historical specimen preparation techniques and their effects on DNA preservation. It’s a reminder that working with ancient and museum DNA isn’t just about applying cutting-edge sequencing techniques—you also need a deep understanding of the historical context behind the specimens themselves.
 &nbsp;
 
-**. What do you think are the main take-home messages of this project?** <br>
+**4. What do you think are the main take-home messages of this project?** <br>
 Our research reveals that the true diversity of nocturnal primates, particularly dwarf galagos, has been vastly underestimated. By sequencing historical DNA from specimens housed in nine natural history collections, we uncovered multiple genetically distinct lineages within what were previously thought to be just two widely distributed species in Central and Western Africa. This means we may be overlooking several hidden species that are distinct at a genetic level but nearly identical in appearance.
 This discovery has profound implications for conservation. Many of these cryptic species may have smaller ranges and more specific habitat requirements than previously assumed. If we continue to treat them as a single widespread species with stable population trends, we risk misrepresenting their conservation needs. More broadly, our study challenges long-held assumptions about the evolution of dwarf galagos. For instance, their small body size was traditionally thought to be an ancestral trait retained by just a few species. However, our findings suggest that these small-sized radiations are more diverse than we might think. 
 Our study also highlights the power of museum genomics. Traditional taxonomy struggled to resolve the identities of these species based on morphology alone, but by combining DNA analysis with skull measurements, we were able to tease apart different evolutionary lineages. This integrative approach is crucial to refine the primate tree of life. An exciting area for future research is the role of past climate change in shaping African biodiversity. We still know very little about how shifts in habitat distribution over millennia influenced the diversification of primates and other mammals. Similarly, the process of cryptic speciation—where species diverge genetically without obvious morphological changes—is still poorly understood. Why do some groups accumulate significant genetic differences without changing in appearance? What ecological or evolutionary pressures drive this pattern? A comparative approach that examines multiple lineages and environments could help answer these questions.
