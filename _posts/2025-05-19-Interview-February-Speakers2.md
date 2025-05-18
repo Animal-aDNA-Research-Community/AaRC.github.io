@@ -35,11 +35,11 @@ Given her recent results, a revision of the current three-species subdivision of
 As part of her project, Dr. Penna, in collaboration with Dr. Alexander Salis and other researchers in the field of conservation has also been working on facilitating access to teaching resources for students interested in museomics and the paleogenetics field, which she would like to share with us:
 &nbsp;
 
-I.	[Applications of Museum Collections and Genomics to Biodiversity Conservation]
+[Applications of Museum Collections and Genomics to Biodiversity Conservation]
 
-II.	[Designing a Conservation Genomics Project Incorporating DNA from Museum Specimens]
+[Designing a Conservation Genomics Project Incorporating DNA from Museum Specimens]
 
-III.	[The Application of Conservation Museomics Approaches to the Protection of the Iberian Lynx (*Lynx pardinus*)]
+[The Application of Conservation Museomics Approaches to the Protection of the Iberian Lynx (*Lynx pardinus*)]
 
 &nbsp;
 
