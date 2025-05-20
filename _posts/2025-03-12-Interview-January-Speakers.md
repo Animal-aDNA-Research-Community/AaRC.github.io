@@ -28,7 +28,7 @@ Another interesting finding was the strong male-sex bias found for chum salmon r
 Contrary to post-contact and industrial practices, Indigenous ancestral fisheries seem to have been sustainable over millennia, with an uninterrupted archaeological record that justifies the presence of permanent human settlements that managed salmon populations to ensure future food stocks without impacting ecosystemic equilibriums. Despite modern developments that have greatly modified the Burrard Inlet area and the species living within, the Tsleil-Waututh Nation and their ancestral practices are well positioned to contribute towards a sustainable salmon fishery once again.
 &nbsp;
 
-You can also check the recording of Dr. Jesse Morin AaRCTikTalk on our [AaRC Youtube channel].
+You can learn more by checking the recording of Dr. Jesse Morin AaRCTikTalk on our [AaRC Youtube channel].
 
 &nbsp;
 
