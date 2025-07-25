@@ -5,7 +5,7 @@ categories: Events
 tags: AaRCTikTalks
 ---
 
-![AaRCTikTalks poster for July 2025](/assets/media/aarc_tiktalk_july_2025.png "AaRCTikTalks poster for July 2025")
+![AaRCTikTalks poster for July 2025](/assets/media/aarc_tiktalk_july_2025.jpg "AaRCTikTalks poster for July 2025")
 
 This month our AaRCTikTalks bring us 2 awesome talks from the land down under: 
 * A.B. Siegenthaler - Do sleeping "dogs" lie? Reexamining claims for early domestic dog derived from burial contexts.
