@@ -24,7 +24,7 @@ We achieve these aims with various [projects](/projects), and by regularly commu
 
 Please join us on our:
 
-- [**slack channel**](https://join.slack.com/t/aarc-8tg1497/shared_invite/zt-2evac9tqu-GXoU0UsmLbI4mIsS91XMcw)
+- [**Element channel**](https://matrix.to/#/#aarc:archaeo.social)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 
 - [**mailing list**](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=AARC) for announcements, calls, and notices.
