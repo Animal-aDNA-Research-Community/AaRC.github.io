@@ -14,7 +14,7 @@ For most of its history since its geological emergence from Zealand submerged ba
 
 ![Kiwi birds](/assets/media/Blog_July_2025_PL_Figure.jpg "Kiwi birds")
 
-<p><em>A couple of Tarāpunga (Red-billed Gulls, Chroicocephalus scopulinus) breeding the new generation of kiwi birds in Aotearoa (New Zealand).</em></p>
+<p><em>A couple of Tarāpunga (Red-billed Gulls, Chroicocephalus scopulinus) breeding the new generation of kiwi birds in Aotearoa (New Zealand). Picture by Dr. Pascale Lubbe.</em></p>
 &nbsp;
 
 Using both ancient DNA from fossil remains and modern mitochondrial genome sequences, Dr. Lubbe and collaborators analyzed the evolutionary histories of nearly 90 endemic New Zealand bird species. By comparing their genomes to those of their closest Australian overseas relatives, they could estimate when these species diverged. The results were striking. Many of New Zealand’s open-habitat and generalist birds diverged from their Australian relatives during the Plio-Pleistocene, especially in the early Pleistocene around 2–3 million years ago [**1**]. This timing aligns perfectly with the expansion of open landscapes in New Zealand, suggesting that these birds colonized newly available environments as they appeared. These birds were not evolving in place from endemic ancestors, but they were ecological opportunists, seizing the moment as the land changed. In contrast, local species currently adapted to dense forest habitats displayed a much older and more even pattern of divergence, consistent with ecological adaptation through millions of years to stable forested ecosystems. These birds were part of New Zealand’s long-term evolutionary legacy, but they were not the ones leading the conquer of new habitats.
