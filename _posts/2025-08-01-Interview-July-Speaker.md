@@ -59,7 +59,7 @@ Ornithology seems a somewhat inescapable field if one is interested in evolution
 &nbsp;
 
 **3. Were there any major challenges in this project? How did you overcome them?** <br>
-Of course, all scientists face challenges. We overcome them by sheer force of will, an insatiable curiosity, and implacable stubbornness. Most often we overcome them thanks to the help of our friends, colleagues, supporters, and rivals.  
+Of course, all scientists face challenges. We overcome them by sheer force of will, an insatiable curiosity, and implacable stubbornness. Most often we overcome them thanks to the help of our friends, colleagues, supporters, and rivals. 
 &nbsp;
 
 **4. What do you think are the main take-home messages of this project?** <br>
