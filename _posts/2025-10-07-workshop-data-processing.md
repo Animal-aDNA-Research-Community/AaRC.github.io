@@ -2,7 +2,7 @@
 layout: post
 title: aDNA Data Processing Workshot
 categories: Events
-tags: workshops
+tags: AaRCademy, Workshops
 ---
 
 ![Boarding the AaRC poster](/assets/media/workshop_september2025.jpg "October 7th workshop")
