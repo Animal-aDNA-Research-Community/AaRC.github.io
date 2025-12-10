@@ -31,7 +31,7 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 
 <!-- - [**bluesky**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications. -->
 
-- [**twitter/X**](https://twitter.com/AaRC_Community) for latest news, polls, and publications.
+- [**Bluesky**](https://bsky.app/profile/aarc-community.bsky.social)) for latest news, polls, and publications.
 
 <!-- - [**youtube**](https://www.youtube.com/@spaam-community) for latest videos, lectures, recordings.-->
 
