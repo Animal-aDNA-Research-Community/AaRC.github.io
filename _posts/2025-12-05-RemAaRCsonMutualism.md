@@ -14,4 +14,4 @@ And we are really happy to start with two amazing speakers on a really important
 - Yvette Running Horse Collin (Taku Skan Skan Wasakliyapi, Global Insitute for Traditional Sciences)
 - Ron Dunn (North Carolina State University)
 
-If you want to discover how ancient DNA helps us understand how different species interact with each other, please, [join us](here)
+If you want to discover how ancient DNA helps us understand how different species interact with each other, please, [join us here.](https://docs.google.com/forms/d/e/1FAIpQLSfq4BUmArgA96iWjm71ocQwbosLZRNb72rZK8Oky1RCnJsGNw/viewform)
