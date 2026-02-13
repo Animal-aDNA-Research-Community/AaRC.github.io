@@ -10,6 +10,7 @@ New Zealand (Aotearoa), a remote island nation in the southwestern Pacific Ocean
 &nbsp;
 
 For most of its history since its geological emergence from Zealand submerged basin due to tectonic activity around 25 million years ago [**2**], New Zealand landmass was dominated by dense forests. But starting around 5 million years ago, increased tectonic uplift and global cooling began transforming the landscape. As mountains rose and rain shadows formed, new ecological zones emerged. Forests gave way to scrub, tussock grasslands, and rocky alpine slopes [**3**]. This process only intensified during the start of the Pleistocene era around 2.5 million years ago, and by the Last Glacial Maximum around 19-29 thousand years ago, patchy forest cover was replaced extensively by open grasslands and woodland mosaics in lowland areas [**4**]. These new open habitats were not just physical static spaces, they were empty ecological niches awaiting to be conquered.
+
 &nbsp;
 
 ![Kiwi birds](/assets/media/Blog_July_2025_PL_Figure.jpg "Kiwi birds")
