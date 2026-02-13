@@ -11,6 +11,7 @@ Natural History Museums around the world hold vast collections of plants and ani
 &nbsp;
 
 [on the difficulties of preserving bird skins] *"The lean and hungry dogs before mentioned were my greatest enemies, and kept me constantly on the watch. If my boys left the bird they were skinning for an instant, it was sure to be carried off. Everything eatable had to be hung up to the roof, to be out of their reach. Ali had just finished skinning a fine King Bird of Paradise one day, when he dropped the skin. Before he could stoop to pick it up, one of this famished race had seized upon it, and he only succeeded in rescuing it from its fangs after it was torn to tatters. Two skins of the large Paradisea, which were quite dry and ready to pack away, were incautiously left on my table for the night, wrapped up in paper. The next morning they were gone, and only a few scattered feathers indicated their fate.”* (From Wallace's 1869 book The Malay Archipelago) [**1**].
+
 &nbsp;
 
 ![AMNH lithography](/assets/media/Blog_March_2025_ATS_Figure.jpg "AMNH lithography")
