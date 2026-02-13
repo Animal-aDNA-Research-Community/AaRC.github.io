@@ -7,7 +7,7 @@ categories: Blog
 ## January 2026
 # A genetic journey through the ancient lineage of Greenland’s Quimmit
 
-*“The dogs astutely sense that work is at hand. They shake off the new fallen snow, jumping up and down in their eagerness to get going. With assuredness, the musher selects his team of dogs, saving the lead dog, which today happens to be a bitch in golden colors, until the very last minute… Off we go. With a start, you are yanked back on the sled, and some time passes before you can gain your equilibrium. The silence, the enormous expanses of land, the bond between the musher and his dogs and the cold will quickly transport you to another world…”* (Anonymous, from https://visitgreenland.com/)
+*“The dogs astutely sense that work is at hand. They shake off the new fallen snow, jumping up and down in their eagerness to get going. With assuredness, the musher selects his team of dogs, saving the lead dog, which today happens to be a bitch in golden colors, until the very last minute… Off we go. With a start, you are yanked back on the sled, and some time passes before you can gain your equilibrium. The silence, the enormous expanses of land, the bond between the musher and his dogs and the cold will quickly transport you to another world…”* (Anonymous, from [https://visitgreenland.com/])
 &nbsp;
 
 For over 800 years, Greenland’s iconic sled dogs, also known as Qimmit, have been an inseparable companion to the Inuit people, pulling sleds across frozen landscapes and enabling survival in one of Earth's harshest environments. But today, these remarkable dogs face an uncertain future. Climate change is melting the sea ice they depend on, snowmobiles are replacing dog teams, and their numbers have plummeted from 25,000 in 2002 to just around 13,000 in 2020 [**1**].
@@ -50,6 +50,7 @@ The Qimmit now stand at a critical juncture. Effective population size estimates
 5. 	[Pilot, M. et al. Widespread, long-term admixture between grey wolves and domestic dogs across Eurasia and its implications for the conservation status of hybrids. Evol Appl 11: 662–680 (2018).]
 
 
+[https://visitgreenland.com/]:https://visitgreenland.com/
 [Sonne, C. et al. Greenland sled dogs at risk of extinction. Science 360: 1080 (2018).]:https://www.science.org/doi/10.1126/science.aat9578
 [Feuerborn, T.R. et al. Origins and diversity of Greenland’s Qimmit revealed with genomes of ancient and modern sled dogs. Science 389: 163–168 (2025).]:https://www.science.org/doi/10.1126/science.adu1990
 [Mønsted, A. et al. An early Inuit workshop at a Qassi, a men’s house, Nuulliit, Northwest Greenland. Arctic Anthropol 59: 3–38 (2023).]:https://aa.uwpress.org/content/59/1/3
