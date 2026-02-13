@@ -19,6 +19,7 @@ Despite such a brief mentioning, the expedition collected several specimens that
 &nbsp;
 
 Inspired by the need to better understanding the diversity of these evasive yet abundant nocturnal animals, Dr. Anna Penna embarked herself in a dire task: to go across the museum collections analyzing the morphology and genetics of galagos in order to bring light to their evolutionary history and taxonomic relationships. In a recent review, Dr. Penna, in collaboration with Dr. Pozzi, revisited the past and current knowledge of Galagids phylogeny, combining evidence from morphology, acoustics and genetics [**3**]. As she mentions, a subgroup of small galagos got her particular interest. Among these, two main geographical populations could be distinguished: Eastern and Western dwarf galagos. Although classified under the “dwarf” category, genetics and acoustic data revealed that these dwarf forms diverged more than 20 million years ago and do not form a monophyletic group, as the Eastern species are more closely related to non-dwarf forms [**6**]. Within the Western populations, two species are found (*Galagoides thomasi* and *Galagoides demidoff*) occurring in sympatry as far west as Senegal and west to Uganda, and down to north-western Angola, as well as the newly described and isolated *Galagoides kumbirensis*, which is limited to the western mountainous areas of Angola.
+
 &nbsp;
 
 ![Dr. Anna Penna in the museum](/assets/media/Blog_March_2025_AP_Figure.jpg "Dr. Anna Penna in the museum")
