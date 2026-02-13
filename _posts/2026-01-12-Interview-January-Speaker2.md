@@ -8,17 +8,18 @@ categories: Blog
 # A genetic journey through the ancient lineage of Greenland’s Quimmit
 
 *“The dogs astutely sense that work is at hand. They shake off the new fallen snow, jumping up and down in their eagerness to get going. With assuredness, the musher selects his team of dogs, saving the lead dog, which today happens to be a bitch in golden colors, until the very last minute… Off we go. With a start, you are yanked back on the sled, and some time passes before you can gain your equilibrium. The silence, the enormous expanses of land, the bond between the musher and his dogs and the cold will quickly transport you to another world…”* (Anonymous, from [https://visitgreenland.com/])
+
+&nbsp;
+
+![Sledge dogs](/assets/media/Blog_January_2026_TF_Figure.jpg "Sledge dogs")
+
+<p><em>Greenland Sled Dogs (Qimmit) being driven by students at the Qasigiannguit (Greenland) high school in a fan-hitch formation.</em></p>
 &nbsp;
 
 For over 800 years, Greenland’s iconic sled dogs, also known as Qimmit, have been an inseparable companion to the Inuit people, pulling sleds across frozen landscapes and enabling survival in one of Earth's harshest environments. But today, these remarkable dogs face an uncertain future. Climate change is melting the sea ice they depend on, snowmobiles are replacing dog teams, and their numbers have plummeted from 25,000 in 2002 to just around 13,000 in 2020 [**1**].
 &nbsp;
 
 What makes the Qimmit unique among Arctic dog breeds? For nearly a millennium, they have served as sled dogs in the same region, partnering with the same communities. In contrast, other indigenous breeds, such as Siberian Huskies and Alaskan Malamutes, have been extensively crossbred with European dogs or adapted primarily as companions. The Qimmit, however, have remained closely tied to their original working role across Kalaallit Nunaat (Greenland). Our AaRC speaker Dr. Tatiana Feuerborn described how she joined forced with other peers to analyze Qimmit genomic data spanning from 800 years before present to today [**2**]. Their findings reveal a population shaped by centuries of isolation, regional differentiation, and remarkable resilience.
-&nbsp;
-
-![Sledge dogs](/assets/media/Blog_January_2026_TF_Figure.jpg "Sledge dogs")
-
-<p><em>Greenland Sled Dogs (Qimmit) being driven by students at the Qasigiannguit (Greenland) high school in a fan-hitch formation.</em></p>
 &nbsp;
 
 ## A tale of two arrivals
