@@ -8,6 +8,7 @@ categories: Blog
 # Redefining the demise and extinction of the woolly mammoth
 The woolly mammoth (*Mammuthus primigenius*) was a greatly successful species characteristic of the Pleistocene megafauna in Eurasia, roaming around the whole northern part of the continent for millennia [**1**], reaching up to Mediterranean seashores during their highest expansion range [**2**], and even migrating to the American continent and again back to Eurasia through the Bering land bridge due to sea level downfall during the last Ice Age [**3**]. The causes of their final disappearance, first from continental mainland and subsequently from their last northern Arctic refugia remain, however, debated. Dr. Marianne Dehasque shared with us one of her last research studies where she tried to elucidate what happened to the last woolly mammoths at the genomic level [**4**]. In this way, we can learn unvaluable lessons of how near-extinction events affect animal populations in the present, and improve conservation efforts to preserve endangered species.
 
+&nbsp;
 
 ![Mammoth in the steppe](/assets/media/Blog_January_2025_MD_Figure.jpg "Mammoth in the steppe")
 
@@ -76,7 +77,7 @@ The domestic chicken (Gallus gallus domesticus) is one of the main sources of an
 
 In their recent work, dr. Ophélie Lebrasseur and collaborators reevaluated the taxonomic identification, dating, and domestic status of around 600 archaeological chicken remains from 89 countries across Asia, Oceania, Europe, and Africa. By applying a conservative approach that accounted for known biases such as insecure stratigraphic dating, possible species misidentification with the local wild avifauna, and the cultural and environmental context [**6**], they challenged previous claims that placed the domestication of chickens around the Indus valley or Northern China. Instead, Lebrasseur et al. determined that the earliest domestic chicken remains had been found at the Neolithic site of Ban Non Wat in central Thailand and dated to 1,650 to 1,250 BCE. While this finding does not pinpoint a domestication event at that precise location or time, it implies that domestication occurred later than previously claimed [**2**,**4**]. Following their domestication, chickens expanded towards Central China, South Asia, and Mesopotamia by the late second millennium BCE, followed by a western dispersal to the Mediterranean and Africa around 700 BCE [**6**,**7**].
 
-
+&nbsp;
 
 ![Ophelie in the lab]( /assets/media/Blog_January_2025_OL_Figure.jpg "Ophelie in the lab")
 
