@@ -19,7 +19,7 @@ categories: Blog
 For over 800 years, Greenland’s iconic sled dogs, also known as Qimmit, have been an inseparable companion to the Inuit people, pulling sleds across frozen landscapes and enabling survival in one of Earth's harshest environments. But today, these remarkable dogs face an uncertain future. Climate change is melting the sea ice they depend on, snowmobiles are replacing dog teams, and their numbers have plummeted from 25,000 in 2002 to just around 13,000 in 2020 [**1**].
 &nbsp;
 
-What makes the Qimmit unique among Arctic dog breeds? For nearly a millennium, they have served as sled dogs in the same region, partnering with the same communities. In contrast, other indigenous breeds, such as Siberian Huskies and Alaskan Malamutes, have been extensively crossbred with European dogs or adapted primarily as companions. The Qimmit, however, have remained closely tied to their original working role across Kalaallit Nunaat (Greenland). Our AaRC speaker Dr. Tatiana Feuerborn described how she joined forced with other peers to analyze Qimmit genomic data spanning from 800 years before present to today [**2**]. Their findings reveal a population shaped by centuries of isolation, regional differentiation, and remarkable resilience.
+What makes the Qimmit unique among Arctic dog breeds? For nearly a millennium, they have served as sled dogs in the same region, partnering with the same communities. In contrast, other indigenous breeds, such as Siberian Huskies and Alaskan Malamutes, have been extensively crossbred with European dogs or adapted primarily as companions. The Qimmit, however, have remained closely tied to their original working role across Kalaallit Nunaat (Greenland). Our AaRC speaker Dr. Tatiana Feuerborn described how she joined forces with other peers to analyze Qimmit genomic data spanning from 800 years before present to present days [**2**]. Their findings reveal a population shaped by centuries of isolation, regional differentiation, and remarkable resilience.
 &nbsp;
 
 ## A tale of two arrivals
@@ -27,7 +27,7 @@ They started by analyzing data from four different regions in Greenland: North (
 &nbsp;
 
 ## The lost population
-Nevertheless, the most poignant discovery concerns the extinct dog population of Northeast Greenland. The Inuit of this region disappeared following their only recorded contact with Europeans in 1823, leaving no oral histories or human genetic legacy. The dog genomes, however, preserve their story. Dr. Feuerborn and collaborators revealed that the Northeast Qimmit were genetically highly homogeneous, evidencing a small, isolated population. When the region was resettled in 1925 by Inuit from the East, the genetic discontinuity was complete. Today's Northeast dogs descend from these later arrivals related to the Tunu population, and not the original lineage.
+Nevertheless, the most poignant discovery concerns the extinct Qimmit population of Northeast Greenland. The Inuit of this region disappeared following their only recorded contact with Europeans in 1823, leaving no oral histories or human genetic legacy. The dog genomes, however, preserve their story. Dr. Feuerborn and collaborators revealed that the Northeast Qimmit were genetically highly homogeneous, evidencing a small, isolated population. When the region was resettled in 1925 by Inuit from the East, the genetic discontinuity was complete. Today's Northeast dogs descend from these later arrivals related to the Tunu population, and not the original lineage.
 &nbsp;
 
 ## Surviving on the edge
