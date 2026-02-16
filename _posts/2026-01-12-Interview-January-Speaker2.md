@@ -5,7 +5,7 @@ categories: Blog
 ---
 
 ## January 2026
-# A genetic journey through the ancient lineage of Greenland’s Quimmit
+# A genetic journey through the ancient lineage of Greenland’s Qimmit
 
 *“The dogs astutely sense that work is at hand. They shake off the new fallen snow, jumping up and down in their eagerness to get going. With assuredness, the musher selects his team of dogs, saving the lead dog, which today happens to be a bitch in golden colors, until the very last minute… Off we go. With a start, you are yanked back on the sled, and some time passes before you can gain your equilibrium. The silence, the enormous expanses of land, the bond between the musher and his dogs and the cold will quickly transport you to another world…”* (Anonymous, from [https://visitgreenland.com/])
 
