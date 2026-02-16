@@ -13,7 +13,7 @@ categories: Blog
 
 ![Sledge dogs](/assets/media/Blog_January_2026_TF_Figure.jpg "Sledge dogs")
 
-<p><em>Greenland Sled Dogs (Qimmit) being driven by students at the Qasigiannguit (Greenland) high school in a fan-hitch formation.</em></p>
+<p><em>Greenland Sled Dogs (Qimmit) being driven by students at the Qasigiannguit (Greenland) high school in a fan-hitch formation (Photo by Tatiana Feuerborn).</em></p>
 &nbsp;
 
 For over 800 years, Greenland’s iconic sled dogs, also known as Qimmit, have been an inseparable companion to the Inuit people, pulling sleds across frozen landscapes and enabling survival in one of Earth's harshest environments. But today, these remarkable dogs face an uncertain future. Climate change is melting the sea ice they depend on, snowmobiles are replacing dog teams, and their numbers have plummeted from 25,000 in 2002 to just around 13,000 in 2020 [**1**].
