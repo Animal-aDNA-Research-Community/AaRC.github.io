@@ -20,6 +20,10 @@ While the MSC has been available in BPP for years, it previously assumed all seq
 
 &nbsp;
 
+![Evolution tree](/assets/media/Blog_February_2026_AN_Figure.jpg "Evolution tree")
+
+<p><em>Left: *"Monophyletischer Stammbaum der Organismen"* (Monophyletic Tree of Organisms). From Ernst Haeckel, Generelle Morphologie der Organismen, Vol. II (Georg Reimer, Berlin, 1866). Via Wikimedia Commons.</em></p>
+&nbsp;
 
 
 ## What the simulations revealed
