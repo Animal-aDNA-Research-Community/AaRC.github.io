@@ -34,5 +34,45 @@ The nuclear dataset, despite having short loci and limited data, yielded diverge
 
 ## Looking forward
 Dr. Anna Nagel’s work opens several avenues for future development. A practical challenge that remains is the method’s convergence, which the authors found became harder as dataset size increased. Developing better strategies will be important to scale to larger genomic datasets including more loci. The current implementation assumes a fixed species tree topology and no gene flow, assumptions that the latest versions of BPP can relax for contemporary data but not yet for tip-dated analyses. Incorporating migration models would be particularly valuable for systems such as elephants, where hybridization between lineages is well documented, or for hominin datasets where gene flow between archaic and modern populations is a central question. Additionally, combining tip dating with fossil calibrations, and developing models that explicitly account for DNA degradation, could further improve the accuracy and utility of this framework.
+
 &nbsp;
+
+## References
+1. [Nagel, A.A. et al. Bayesian inference under the multispecies coalescent with ancient DNA sequences. Syst Biol 73: 964–978 (2024).]
+2. [van der Valk, T. et al. Million-year-old DNA sheds light on the genomic history of mammoths. Nature 591: 265–269 (2021).]
+3. [Rohland, N. et al. Genomic DNA sequences from mastodon and woolly mammoth reveal deep speciation of forest and savanna elephants. PLoS Biol 8: e1000564 (2010).]
+
+
+[Nagel, A.A. et al. Bayesian inference under the multispecies coalescent with ancient DNA sequences. Syst Biol 73: 964–978 (2024).]:https://academic.oup.com/sysbio/article/73/6/964/7724094?login=false
+[van der Valk, T. et al. Million-year-old DNA sheds light on the genomic history of mammoths. Nature 591: 265–269 (2021).]:https://www.nature.com/articles/s41586-021-03224-9
+[Rohland, N. et al. Genomic DNA sequences from mastodon and woolly mammoth reveal deep speciation of forest and savanna elephants. PLoS Biol 8: e1000564 (2010).]:https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000564
+
+&nbsp;
+
+Below, Anna shared with us further details about her profile, career, prospects and future projects:
+&nbsp;
+
+**1. Briefly introduce yourself. What is your origin story for how you got into science?** <br>
+I am a postdoc Washington University in St. Louis. I work on population genetics and phylogenetics methods development, mostly relating to the estimation of times. I was always excited about science, but I started as a chemistry major. I was interested in Ecology from spending time at an environmental learning center as a kid, but I thought biology wasn’t mathematical enough. After taking Evolution, I realized that wasn’t true and mathematical models are a powerful tool for applications ranging from proof of concept to inference. Moreover, I was really excited by how studying evolutionary theory allows us to understand the patterns of biological diversity across scales, from individual loci to the tree of life.
+&nbsp;
+
+**2. How and/or why did you start working on this project?** <br>
+I was actually thinking about HIV transmission and how coalescent models could be used to model transmission with multiple sequences from each infected individual. That project would have required a lot of additions to existing software, including adding tip dating to the multispecies coalescent (MSC). I decided to work on aDNA first because it was a much smaller project. I still haven’t gotten back to the HIV transmission project.
+&nbsp;
+
+**3. Were there any major challenges in this project? How did you overcome them?** <br>
+One of the main obstacles was getting the MCMCs to mix. Addressing this required developing MCMC proposals specific to tip dating.
+&nbsp;
+
+**4. What do you think are the main take-home messages of this project?** <br>
+Even relatively young age sequences (in comparison to the species divergence times) can give a lot of information about species divergence times and allow us to estimate those times without outside information such as fossil ages. However, DNA degradation may be a pervasive problem in these types of analyses and future work should explicitly model DNA degradation.
+&nbsp;
+
+**5. What do you think is missing in the field that you would like to work on?** <br>
+I would be excited to work on migration models with aDNA. Bayesian inference with coalescent models with migrations are difficult to get to work correctly because they are really complex. However, these models would allow us to analyze a more datasets more satisfactorily. In my empirical analysis, I removed a mammoth species that had been suggested to have been a product of hybrid speciation, and likely my estimate of divergence time estimate of the African elephant species was biased substantially due to hybridization. Hominid datasets would also require migration models.
+&nbsp;
+
+**6. Where do you see yourself in the near future?** <br>
+Right now, I’m hoping to keep working on similar types of questions relating to Bayesian phylogenetic inference and the intersection of phylogenetics and population genetics. I’ve also been working on machine learning in phylogenetics, so I’d like to see how those methods could be applied to the MSC. 
+
 
